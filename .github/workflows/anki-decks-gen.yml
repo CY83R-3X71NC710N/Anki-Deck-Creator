@@ -24,8 +24,8 @@ jobs:
         pip install genanki
 
     - name: Run script to generate Anki deck
-      run: python anki-gen.py
-
+      run: python anki-gen.py && ls
+      
     - name: Upload Anki deck as artifact
       uses: actions/upload-artifact@v3
       with:
