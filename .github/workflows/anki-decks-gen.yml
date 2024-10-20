@@ -29,6 +29,10 @@ jobs:
         python anki-gen.py
         ls *.apkg > apkg_filename.txt
 
+    - name: Read generated file name
+      id: read_filename
+      run: echo "APKG_FILE=$(cat apkg_filename.txt)" >> $GITHUB_ENV
+
     - name: Upload Anki deck as artifact
       uses: actions/upload-artifact@v3
       with:
@@ -39,7 +43,7 @@ jobs:
       id: create_release
       uses: actions/create-release@v1
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.PAT }}
       with:
         tag_name: v1.0.0  # Change this to your desired tag
         release_name: Anki Deck Release
@@ -47,12 +51,11 @@ jobs:
         prerelease: false
 
     - name: Upload Release Asset
-      id: upload_release_asset
       uses: actions/upload-release-asset@v1
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.PAT }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: $(cat apkg_filename.txt)
+        asset_path: ${{ env.APKG_FILE }}
         asset_name: anki-deck.apkg  # This name can be anything you prefer
         asset_content_type: application/octet-stream
