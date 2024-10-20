@@ -1,1 +1,413 @@
 
+What is the driving question of the Motion Unit Packet 2?
+
+How fast do objects fall?
+
+physics
+motion
+What qualifies as freefall?
+
+An object falling under the influence of gravity alone, without air resistance.
+
+physics
+freefall
+What forces act on an object in freefall?
+
+Only the force of gravity acts on it.
+
+physics
+forces
+What is the formula for average speed?
+
+Average speed = distance divided by time.
+
+physics
+speed
+What is the difference between speed and velocity?
+
+Speed is a scalar quantity; velocity is a vector quantity.
+
+physics
+motion
+What is acceleration?
+
+The rate at which velocity changes.
+
+physics
+acceleration
+What is the effect of gravity on falling objects?
+
+Falling objects have constant acceleration towards the earth's surface.
+
+physics
+gravity
+How does a marble behave when rolling down an incline?
+
+It gains velocity at a constant rate.
+
+physics
+motion
+How can the effects of gravity on falling objects be observed?
+
+Using photography to capture the distance moved over time.
+
+physics
+experiments
+What happens to the velocity of a falling ball over time?
+
+The velocity of the falling ball steadily increases.
+
+physics
+velocity
+How do you calculate average velocity?
+
+Average velocity = distance traveled divided by time.
+
+physics
+velocity
+Do mass and shape affect the speed of falling objects?
+
+Mass does not affect the speed; shape may affect air resistance.
+
+physics
+freefall
+What happens when a brick and a feather are dropped simultaneously?
+
+The brick hits the ground first due to its mass, but both fall at the same rate in a vacuum.
+
+physics
+experiments
+What indicates that an object is accelerating when observed at intervals?
+
+If the object covers increasing distances in equal time intervals.
+
+physics
+acceleration
+Do all objects reach the ground at the same time when dropped?
+
+Yes, they reach the ground at the same time if air resistance is negligible.
+
+gravity
+freefall
+Does gravitational acceleration depend on the weight of the object?
+
+No, gravitational acceleration does NOT depend on the weight of the object.
+
+physics
+gravity
+What causes a feather to fall more slowly than a brick?
+
+Air resistance causes the feather to fall more slowly than the brick.
+
+physics
+air_resistance
+What is the approximate acceleration of objects in freefall?
+
+Objects in freefall accelerate at roughly 10 m/s² (9.8 m/s²).
+
+acceleration
+freefall
+How does the velocity of a falling ball change each second?
+
+Its velocity increases by roughly 10 m/s each second.
+
+velocity
+freefall
+What is the average velocity of a falling ball during the first second?
+
+During the first second, its average velocity is 5 m/s.
+
+average_velocity
+freefall
+How does distance moved by a falling object relate to time?
+
+Distance increases in proportion to the square of the time.
+
+time
+distance
+freefall
+Is the acceleration of an object with a curving velocity-versus-time graph constant?
+
+No, the acceleration is not constant if the graph is curving upward.
+
+acceleration
+graph
+What happens when a ball is thrown downward at the same time as another ball is dropped?
+
+The thrown ball will reach the ground more rapidly.
+
+freefall
+thrown_ball
+What happens to a skydiver's velocity and acceleration after jumping from a plane?
+
+Velocity increases until air resistance equals gravitational force, then it becomes constant.
+
+velocity
+skydiving
+What happens to a skydiver's velocity when they open their parachute?
+
+Opening the parachute increases air resistance, reducing their velocity.
+
+air_resistance
+parachute
+How does a ball behave when thrown upwards?
+
+It accelerates downward due to gravity while initially moving upwards.
+
+gravity
+upward_motion
+What direction is gravitational acceleration?
+
+Downward, toward the center of the Earth.
+
+physics
+gravity
+What is the initial velocity of a ball thrown upwards in the example?
+
+20 m/s
+
+physics
+velocity
+How much does the ball's velocity decrease every second?
+
+10 m/s
+
+physics
+velocity
+At what time does the ball reach its highest point?
+
+At 2 seconds
+
+physics
+time
+What is the ball's velocity at its highest point?
+
+0 m/s
+
+physics
+velocity
+What happens to the ball's velocity after reaching the highest point?
+
+It changes direction from upward to downward.
+
+physics
+motion
+What is the ball's acceleration at the top of its path?
+
+-10 m/s²
+
+physics
+acceleration
+How does the ball's velocity change as it travels upward?
+
+It slows down until it reaches the top.
+
+physics
+motion
+What is the free fall equation for velocity?
+
+v = gt = 10t
+
+physics
+equations
+What is the free fall equation for distance?
+
+d = ½ gt² = 5t²
+
+physics
+equations
+How fast is a falling rock moving after 1 second?
+
+10 m/s
+
+physics
+velocity
+How far does a rock fall after 2 seconds?
+
+20 m
+
+physics
+distance
+What happens to the ball's velocity on the way down?
+
+It speeds up.
+
+physics
+motion
+What is the velocity of a ball thrown upward at 30 m/s after 3 seconds?
+
+0 m/s
+
+physics
+velocity
+What happens to the ball at 6 seconds?
+
+It is at the same level with the same speed but opposite direction.
+
+physics
+motion
+What forces act on an object in free fall?
+
+Only gravity acts on it.
+
+physics
+forces
+What qualifies as free fall?
+
+Motion under the influence of gravity alone.
+
+physics
+freefall
+What is the acceleration due to gravity during freefall?
+
+9.8 m/s² (rounded to 10 m/s² for simplicity)
+
+physics
+gravity
+What happens to the velocity of falling objects?
+
+Velocity increases at a constant rate due to gravity.
+
+physics
+velocity
+Does mass affect the speed of falling objects?
+
+No, mass does not affect the speed; air resistance does.
+
+physics
+mass
+What is terminal velocity?
+
+When air resistance equals gravitational force, resulting in constant velocity and zero acceleration.
+
+physics
+terminal_velocity
+What effect does opening a parachute have?
+
+Increases air resistance, reducing downward velocity.
+
+physics
+parachute
+How is average velocity calculated during freefall?
+
+Average velocity = distance traveled / time taken.
+
+physics
+velocity
+What is the formula for velocity in freefall?
+
+v = gt = 10t
+
+physics
+equations
+What is the formula for distance in freefall?
+
+d = ½ gt² = 5t²
+
+physics
+equations
+How far does an object fall in the first second?
+
+In the first second, it travels 5 meters.
+
+physics
+distance
+What happens to a ball thrown upwards?
+
+It accelerates upwards until it reaches its highest point, then falls back down.
+
+physics
+motion
+What is the time at t=2s?
+
+2 seconds
+
+time
+What is the distance at t=2s?
+
+20 meters
+
+distance
+What is the velocity at t=2s?
+
+0 m/s
+
+velocity
+What is the acceleration at t=2s?
+
+-10 m/s²
+
+acceleration
+What is the distance at t=1s?
+
+15 meters
+
+distance
+What is the velocity at t=1s?
+
+10 m/s
+
+velocity
+What is the acceleration at t=1s?
+
+-10 m/s²
+
+acceleration
+What is the distance at t=3s?
+
+15 meters
+
+distance
+What is the velocity at t=3s?
+
+-10 m/s
+
+velocity
+What is the acceleration at t=3s?
+
+-10 m/s²
+
+acceleration
+What is the distance at t=0?
+
+0 meters
+
+distance
+What is the velocity at t=0?
+
++20 m/s
+
+velocity
+What is the acceleration at t=0?
+
+-10 m/s²
+
+acceleration
+What is the velocity at t=4s?
+
+-20 m/s
+
+velocity
+What is the acceleration at t=4s?
+
+-10 m/s²
+
+acceleration
+What is the formula for acceleration?
+
+a = rac{v_f - v_i}{t}
+
+physics
+formula
+What is the formula for velocity?
+
+v = rac{d}{t}
+
+physics
+formula
+What is the formula for distance?
+
+d = v_i t + rac{1}{2} a t^2
+
+physics
+formula
