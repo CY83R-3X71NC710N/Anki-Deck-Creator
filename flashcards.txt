@@ -1,205 +1,245 @@
+What do they oppose regarding censorship?
+
+Oppose censorship.
+
+politics
+censorship
+What is their stance on government-imposed morality?
+
+Do not want government to impose 'morality'.
+
+politics
+morality
+How do they align on economic issues?
+
+Conservative on economic issues.
+
+politics
+economics
+How do they align on social issues?
+
+Liberal on moral or social issues.
+
+politics
+social_issues
 What does the US Census do?
 
 Counts the population.
 
 demographics
 census
-What is Partisan voting behavior?
+Which congressional district is associated with Stone Park, Illinois?
 
-Vote based on party alignment
-
-behavior
-voting
-partisan
-What does Trustee voting behavior involve?
-
-Vote independently, based on their own judgment
-
-behavior
-voting
-trustee
-What is Delegate voting behavior?
-
-Represent the views of their constituents
-
-behavior
-voting
-delegate
-What characterizes Substantive voting behavior?
-
-Based on particular groups of people
-
-behavior
-voting
-substantive
-What is Descriptive voting behavior based on?
-
-Based on unique identifiers (race, gender, geography, etc.)
-
-behavior
-voting
-descriptive
-What does Politico voting behavior combine?
-
-Combination of partisan, trustee, and delegate behaviors
-
-behavior
-voting
-politico
-What is a consequence of Partisanship?
-
-Divided government
-
-consequences
-government
-partisanship
-What does Gridlock refer to in government?
-
-A situation where little to no progress is made due to conflicting interests
-
-government
-gridlock
-What is Gerrymandering?
-
-The process of drawing district lines to give a political party an advantage
-
-redistricting
-gerrymandering
-Who draws the district borders?
-
-The States
-
-districts
-redistricting
-What is Packing in gerrymandering?
-
-Concentrating the opposing party into one district
-
-packing
-gerrymandering
-What does Cracking refer to in gerrymandering?
-
-Splitting up minority party support over several districts
-
-cracking
-gerrymandering
-What is Kidnapping in the context of gerrymandering?
-
-Moving incumbent candidates into a new district where they are unlikely to win
-
-kidnapping
-gerrymandering
-What was the main issue in Baker v. Carr (1961)?
-
-Whether the Supreme Court could hear cases related to legislative apportionment
-
-courtcase
-bakervcarr
-What did the Supreme Court decide in Baker v. Carr?
-
-The Court had the authority to hear the case due to Fourteenth Amendment issues
-
-courtcase
-bakervcarr
-What principle did Baker v. Carr establish?
-
-It opened the door to challenges to unfair redistricting via the Equal Protection Clause
-
-courtcase
-bakervcarr
-What was the issue in Shaw v. Reno (1993)?
-
-Whether racial gerrymandering occurred with a narrowly shaped district
-
-courtcase
-shawvreno
-What was the Supreme Court's ruling in Shaw v. Reno?
-
-The odd shape of the district indicated a clear effort to separate voters racially
-
-courtcase
-shawvreno
-What do Liberals believe about government intervention?
-
-It is necessary to ensure equality and promote general welfare
-
-politics
-liberal
-What is the Conservative view on government?
-
-The government should do less, allowing more freedom for citizens
-
-politics
-conservative
-What do Libertarians value highly?
-
-Civil liberties
-
-politics
-libertarian
-What do conservatives generally oppose regarding government?
-
-Government regulation or intervention.
-
-politics
-conservatism
-What tax stance do conservatives typically hold?
-
-Want lower taxes.
-
-politics
-taxes
-What is the conservative view on censorship?
-
-Oppose censorship.
-
-politics
-censorship
-What do conservatives think about government-imposed morality?
-
-Do not want government to impose 'morality'.
-
-politics
-morality
-What is the conservative stance on economic issues?
-
-Conservative on economic issues.
-
-politics
-economics
-What is the liberal stance on social issues?
-
-Liberal on moral or social issues.
-
-politics
-social_issues
-Which Illinois city is in Congressional District 4?
-
-Cicero.
+Congressional District 4.
 
 geography
 illinois
-Name a city in Louisiana's Congressional District 4.
+Which congressional district is associated with Alexandria, Louisiana?
 
-Alexandria.
+Congressional District 4.
 
 geography
 louisiana
-What is the Congressional District in Georgia that includes Savannah?
+What is the congressional district for Savannah, Georgia?
 
 Congressional District 11.
 
 geography
 georgia
-Which North Carolina city is in Congressional District 12?
+Which congressional district is associated with Charlotte, North Carolina?
 
-Charlotte.
+Congressional District 12.
 
 geography
 north_carolina
-What is the source of the graphics mentioned in the text?
+Who created graphics from the 1990s Supreme Court Redistricting Decisions?
 
-1990s Supreme Court Redistricting Decisions, Peter S. Wattson.
+Peter S. Wattson.
 
 history
 redistricting
+What is the website for Minnesota Senate legislative information?
+
+www.senate.leg.state.mn.us/departments/scr/REDIST/red907.htm
+
+website
+government
+What is the source for the districts of Congress?
+
+http://nationalatlas.gov
+
+geography
+congress
+What is partisan voting behavior?
+
+Voting based on party alignment.
+
+behavior
+voting
+partisan
+What is trustee voting behavior?
+
+Voting independently, based on their own judgment.
+
+behavior
+voting
+trustee
+What is delegate voting behavior?
+
+Representing the views of their constituents.
+
+behavior
+voting
+delegate
+What is substantive voting behavior?
+
+Voting based on particular groups of people.
+
+behavior
+voting
+substantive
+What is descriptive voting behavior?
+
+Voting based on unique identifiers (race, gender, geography, etc.).
+
+behavior
+voting
+descriptive
+What is politico voting behavior?
+
+A combination of partisan, trustee, and delegate behaviors.
+
+behavior
+voting
+politico
+What does divided government cause?
+
+Gridlock, pandemonium, anarchy.
+
+consequences
+government
+divided
+Who gets to draw district borders?
+
+The states.
+
+districts
+redistricting
+gerrymandering
+What is gerrymandering?
+
+The process of drawing district lines to give a political party an advantage.
+
+politics
+redistricting
+gerrymandering
+What is packing in gerrymandering?
+
+Concentrating the opposing party into one district to win others easily.
+
+methods
+packing
+gerrymandering
+What is cracking in gerrymandering?
+
+Splitting up minority party support over a few districts.
+
+methods
+cracking
+gerrymandering
+What is kidnapping in gerrymandering?
+
+Moving incumbent candidates into a new district where they are unlikely to win.
+
+methods
+kidnapping
+gerrymandering
+Is partisan gerrymandering acceptable?
+
+Yes, it is generally accepted.
+
+acceptance
+partisan
+gerrymandering
+Is racial gerrymandering acceptable?
+
+No, it is not accepted.
+
+acceptance
+racial
+gerrymandering
+What did Baker v. Carr (1961) address?
+
+Reapportionment of Tennessee's urban populations.
+
+court_case
+baker_v._carr
+apportionment
+What was the constitutional issue in Baker v. Carr?
+
+Whether the Supreme Court had authority to hear legislative apportionment cases.
+
+issues
+constitutional
+baker_v._carr
+What did the Supreme Court conclude in Baker v. Carr?
+
+The Court had authority due to Fourteenth Amendment issues.
+
+conclusion
+supreme_court
+baker_v._carr
+What impact did Baker v. Carr have?
+
+Opened doors to challenges against unfair redistricting via the Equal Protection Clause.
+
+impact
+redistricting
+baker_v._carr
+What was the issue in Shaw v. Reno (1993)?
+
+Whether racial gerrymandering occurred with an unusually shaped district.
+
+issue
+shaw_v._reno
+racial_gerrymandering
+What did the Supreme Court hold in Shaw v. Reno?
+
+The odd shape of the district indicated an effort to separate voters racially.
+
+holding
+supreme_court
+shaw_v._reno
+What is the liberal view on government intervention?
+
+Intervention is necessary to uphold equality and promote general welfare.
+
+politics
+government
+liberal
+What is the conservative view on government intervention?
+
+The government should do less, allowing more freedom and fewer regulations.
+
+politics
+government
+conservative
+What is the libertarian view on civil liberties?
+
+High regard for civil liberties and minimal government intervention.
+
+politics
+libertarian
+civil_liberties
+What do some people want regarding government regulation?
+
+Oppose government regulation or intervention.
+
+politics
+regulation
+What are the tax preferences of those opposing regulation?
+
+Want lower taxes.
+
+politics
+taxes
