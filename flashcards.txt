@@ -1,245 +1,162 @@
-What do they oppose regarding censorship?
+What are the nutritional benefits of fruits?
 
-Oppose censorship.
+Fruits provide vitamins, minerals, fiber, and antioxidants. They are low in fat and calories, and high in water content.
 
-politics
-censorship
-What is their stance on government-imposed morality?
+nutrition
+fruits
+How much fruit should you include in your diet each day?
 
-Do not want government to impose 'morality'.
+Eat 4 or more servings of fruit daily for optimal health.
 
-politics
-morality
-How do they align on economic issues?
+diet
+fruits
+What are drupes?
 
-Conservative on economic issues.
+Fruits containing a single seed or pit, surrounded by juicy flesh.
 
-politics
-economics
-How do they align on social issues?
+fruits
+drupes
+What is a characteristic of berries?
 
-Liberal on moral or social issues.
+Berries have a fragile cell structure, are pulpy, juicy, and contain tiny seeds embedded in flesh.
 
-politics
-social_issues
-What does the US Census do?
+fruits
+berries
+What defines melons?
 
-Counts the population.
+Melons have a hard outer surface that is smooth or netted and juicy flesh inside.
 
-demographics
-census
-Which congressional district is associated with Stone Park, Illinois?
+fruits
+melons
+What are pome fruits?
 
-Congressional District 4.
+Fruits with a core of several small seeds, surrounded by a tough membrane and an edible layer of flesh.
 
-geography
-illinois
-Which congressional district is associated with Alexandria, Louisiana?
+fruits
+pome
+Where do citrus fruits grow?
 
-Congressional District 4.
+Citrus fruits grow in warm regions and have a firm rind with pulpy flesh in segments.
 
-geography
-louisiana
-What is the congressional district for Savannah, Georgia?
+fruits
+citrus
+What are tropical fruits?
 
-Congressional District 11.
+Fruits that grow in very warm climates, differing in skin composition and seed characteristics.
 
-geography
-georgia
-Which congressional district is associated with Charlotte, North Carolina?
+fruits
+tropical
+What should you look for when selecting fresh fruit?
 
-Congressional District 12.
+Choose firm, well-shaped, aromatic fruits that are the right color and heavy for their size.
 
-geography
-north_carolina
-Who created graphics from the 1990s Supreme Court Redistricting Decisions?
+selection
+fruits
+What are the components found in fruit when cooking?
 
-Peter S. Wattson.
+Fruits contain sugar, cellulose, and pectin, which affects texture and sweetness.
 
-history
-redistricting
-What is the website for Minnesota Senate legislative information?
+cooking
+fruits
+What are some nutrient-dense fruits?
 
-www.senate.leg.state.mn.us/departments/scr/REDIST/red907.htm
+Citrus fruits, cantaloupes, strawberries, cranberries, papayas, mangoes, kiwis, bananas, and oranges.
 
-website
-government
-What is the source for the districts of Congress?
+nutrition
+fruits
+What are the grades for canned or frozen fruits?
 
-http://nationalatlas.gov
+Grade A: fancy, Grade B: choice, Grade C: standard; all grades are nutritious but vary in appearance and flavor.
 
-geography
-congress
-What is partisan voting behavior?
+fruits
+canned
+What tips are there for cooking fruits?
 
-Voting based on party alignment.
+Pare thinly, prepare before serving, cook in minimal water, add sugar for shape, and use a covered pan.
 
-behavior
-voting
-partisan
-What is trustee voting behavior?
+cooking
+tips
+What is enzymatic browning in fruits?
 
-Voting independently, based on their own judgment.
+A reaction that causes browning; can be prevented by using lemon juice or other methods.
 
-behavior
-voting
-trustee
-What is delegate voting behavior?
+cooking
+fruits
+What is zest in cooking?
 
-Representing the views of their constituents.
+Zest is the outer colored part of a citrus peel scraped off for flavoring.
 
-behavior
-voting
-delegate
-What is substantive voting behavior?
+cooking
+zest
+Why is eating seasonal fruits important?
 
-Voting based on particular groups of people.
+In-season fruits provide more nutrition and flavor compared to those picked early and treated.
 
-behavior
-voting
-substantive
-What is descriptive voting behavior?
+fruits
+seasonal
+What is the benefit of a diet rich in fruits and vegetables regarding blood pressure?
 
-Voting based on unique identifiers (race, gender, geography, etc.).
+It can lower blood pressure.
 
-behavior
-voting
-descriptive
-What is politico voting behavior?
+health
+nutrition
+How can fruits and vegetables affect heart disease?
 
-A combination of partisan, trustee, and delegate behaviors.
+They can reduce the risk of heart disease and stroke.
 
-behavior
-voting
-politico
-What does divided government cause?
+health
+heart
+What cancer-related benefit do fruits provide?
 
-Gridlock, pandemonium, anarchy.
+They can prevent some types of cancer.
 
-consequences
-government
-divided
-Who gets to draw district borders?
+health
+cancer
+What digestive issues can fruits help with?
 
-The states.
+They lower the risk of eye and digestive problems.
 
-districts
-redistricting
-gerrymandering
-What is gerrymandering?
+health
+digestion
+How do fruits impact blood sugar?
 
-The process of drawing district lines to give a political party an advantage.
+They have a positive effect upon blood sugar, helping to keep appetite in check.
 
-politics
-redistricting
-gerrymandering
-What is packing in gerrymandering?
+health
+blood_sugar
+What is the best form of fruit to consume for maximum nutrients?
 
-Concentrating the opposing party into one district to win others easily.
+Fresh, ripe produce in-season is best.
 
-methods
-packing
-gerrymandering
-What is cracking in gerrymandering?
+nutrition
+fresh
+What is the second best option for fruit if fresh is not available?
 
-Splitting up minority party support over a few districts.
+Frozen fruit is the next best option.
 
-methods
-cracking
-gerrymandering
-What is kidnapping in gerrymandering?
+nutrition
+frozen
+What cooking method can help retain nutrients in fruits?
 
-Moving incumbent candidates into a new district where they are unlikely to win.
+Using a microwave can help retain nutrients.
 
-methods
-kidnapping
-gerrymandering
-Is partisan gerrymandering acceptable?
+cooking
+nutrition
+What should you do with fruit peels?
 
-Yes, it is generally accepted.
+Preserve the peel for added nutrients.
 
-acceptance
-partisan
-gerrymandering
-Is racial gerrymandering acceptable?
+nutrition
+peels
+What is a tip for using fruit effectively?
 
-No, it is not accepted.
+Use the whole fruit to minimize waste.
 
-acceptance
-racial
-gerrymandering
-What did Baker v. Carr (1961) address?
+nutrition
+tips
+What is a good practice for storing fruit?
 
-Reapportionment of Tennessee's urban populations.
+Keep fruit cool to maintain freshness.
 
-court_case
-baker_v._carr
-apportionment
-What was the constitutional issue in Baker v. Carr?
-
-Whether the Supreme Court had authority to hear legislative apportionment cases.
-
-issues
-constitutional
-baker_v._carr
-What did the Supreme Court conclude in Baker v. Carr?
-
-The Court had authority due to Fourteenth Amendment issues.
-
-conclusion
-supreme_court
-baker_v._carr
-What impact did Baker v. Carr have?
-
-Opened doors to challenges against unfair redistricting via the Equal Protection Clause.
-
-impact
-redistricting
-baker_v._carr
-What was the issue in Shaw v. Reno (1993)?
-
-Whether racial gerrymandering occurred with an unusually shaped district.
-
-issue
-shaw_v._reno
-racial_gerrymandering
-What did the Supreme Court hold in Shaw v. Reno?
-
-The odd shape of the district indicated an effort to separate voters racially.
-
-holding
-supreme_court
-shaw_v._reno
-What is the liberal view on government intervention?
-
-Intervention is necessary to uphold equality and promote general welfare.
-
-politics
-government
-liberal
-What is the conservative view on government intervention?
-
-The government should do less, allowing more freedom and fewer regulations.
-
-politics
-government
-conservative
-What is the libertarian view on civil liberties?
-
-High regard for civil liberties and minimal government intervention.
-
-politics
-libertarian
-civil_liberties
-What do some people want regarding government regulation?
-
-Oppose government regulation or intervention.
-
-politics
-regulation
-What are the tax preferences of those opposing regulation?
-
-Want lower taxes.
-
-politics
-taxes
+storage
+freshness
