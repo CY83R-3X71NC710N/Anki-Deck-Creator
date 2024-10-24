@@ -15,14 +15,15 @@ def read_flashcards(file_path):
     flashcards = []
     i = 0
     while i < len(lines):
-        question = lines[i]
-        answer = lines[i+1]
         categories = []
-        i += 2
-        while i < len(lines) and not lines[i].startswith('What') and not lines[i].startswith('The'):
+        while i < len(lines) and not lines[i].startswith('Which') and not lines[i].startswith('What'):
             categories.append(lines[i])
             i += 1
-        flashcards.append((question, answer, categories))
+        if i < len(lines):
+            question = lines[i]
+            answer = lines[i+1]
+            flashcards.append((question, answer, categories))
+            i += 2
     return flashcards
 
 # Define the model for the flashcards
