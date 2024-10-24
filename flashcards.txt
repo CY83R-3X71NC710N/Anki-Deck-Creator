@@ -1,413 +1,205 @@
+What does the US Census do?
 
-What is the driving question of the Motion Unit Packet 2?
+Counts the population.
 
-How fast do objects fall?
+demographics
+census
+What is Partisan voting behavior?
 
-physics
-motion
-What qualifies as freefall?
+Vote based on party alignment
 
-An object falling under the influence of gravity alone, without air resistance.
+behavior
+voting
+partisan
+What does Trustee voting behavior involve?
 
-physics
-freefall
-What forces act on an object in freefall?
+Vote independently, based on their own judgment
 
-Only the force of gravity acts on it.
+behavior
+voting
+trustee
+What is Delegate voting behavior?
 
-physics
-forces
-What is the formula for average speed?
+Represent the views of their constituents
 
-Average speed = distance divided by time.
+behavior
+voting
+delegate
+What characterizes Substantive voting behavior?
 
-physics
-speed
-What is the difference between speed and velocity?
+Based on particular groups of people
 
-Speed is a scalar quantity; velocity is a vector quantity.
+behavior
+voting
+substantive
+What is Descriptive voting behavior based on?
 
-physics
-motion
-What is acceleration?
+Based on unique identifiers (race, gender, geography, etc.)
 
-The rate at which velocity changes.
+behavior
+voting
+descriptive
+What does Politico voting behavior combine?
 
-physics
-acceleration
-What is the effect of gravity on falling objects?
+Combination of partisan, trustee, and delegate behaviors
 
-Falling objects have constant acceleration towards the earth's surface.
+behavior
+voting
+politico
+What is a consequence of Partisanship?
 
-physics
-gravity
-How does a marble behave when rolling down an incline?
+Divided government
 
-It gains velocity at a constant rate.
+consequences
+government
+partisanship
+What does Gridlock refer to in government?
 
-physics
-motion
-How can the effects of gravity on falling objects be observed?
+A situation where little to no progress is made due to conflicting interests
 
-Using photography to capture the distance moved over time.
+government
+gridlock
+What is Gerrymandering?
 
-physics
-experiments
-What happens to the velocity of a falling ball over time?
+The process of drawing district lines to give a political party an advantage
 
-The velocity of the falling ball steadily increases.
+redistricting
+gerrymandering
+Who draws the district borders?
 
-physics
-velocity
-How do you calculate average velocity?
+The States
 
-Average velocity = distance traveled divided by time.
+districts
+redistricting
+What is Packing in gerrymandering?
 
-physics
-velocity
-Do mass and shape affect the speed of falling objects?
+Concentrating the opposing party into one district
 
-Mass does not affect the speed; shape may affect air resistance.
+packing
+gerrymandering
+What does Cracking refer to in gerrymandering?
 
-physics
-freefall
-What happens when a brick and a feather are dropped simultaneously?
+Splitting up minority party support over several districts
 
-The brick hits the ground first due to its mass, but both fall at the same rate in a vacuum.
+cracking
+gerrymandering
+What is Kidnapping in the context of gerrymandering?
 
-physics
-experiments
-What indicates that an object is accelerating when observed at intervals?
+Moving incumbent candidates into a new district where they are unlikely to win
 
-If the object covers increasing distances in equal time intervals.
+kidnapping
+gerrymandering
+What was the main issue in Baker v. Carr (1961)?
 
-physics
-acceleration
-Do all objects reach the ground at the same time when dropped?
+Whether the Supreme Court could hear cases related to legislative apportionment
 
-Yes, they reach the ground at the same time if air resistance is negligible.
+courtcase
+bakervcarr
+What did the Supreme Court decide in Baker v. Carr?
 
-gravity
-freefall
-Does gravitational acceleration depend on the weight of the object?
+The Court had the authority to hear the case due to Fourteenth Amendment issues
 
-No, gravitational acceleration does NOT depend on the weight of the object.
+courtcase
+bakervcarr
+What principle did Baker v. Carr establish?
 
-physics
-gravity
-What causes a feather to fall more slowly than a brick?
+It opened the door to challenges to unfair redistricting via the Equal Protection Clause
 
-Air resistance causes the feather to fall more slowly than the brick.
+courtcase
+bakervcarr
+What was the issue in Shaw v. Reno (1993)?
 
-physics
-air_resistance
-What is the approximate acceleration of objects in freefall?
+Whether racial gerrymandering occurred with a narrowly shaped district
 
-Objects in freefall accelerate at roughly 10 m/s² (9.8 m/s²).
+courtcase
+shawvreno
+What was the Supreme Court's ruling in Shaw v. Reno?
 
-acceleration
-freefall
-How does the velocity of a falling ball change each second?
+The odd shape of the district indicated a clear effort to separate voters racially
 
-Its velocity increases by roughly 10 m/s each second.
+courtcase
+shawvreno
+What do Liberals believe about government intervention?
 
-velocity
-freefall
-What is the average velocity of a falling ball during the first second?
+It is necessary to ensure equality and promote general welfare
 
-During the first second, its average velocity is 5 m/s.
+politics
+liberal
+What is the Conservative view on government?
 
-average_velocity
-freefall
-How does distance moved by a falling object relate to time?
+The government should do less, allowing more freedom for citizens
 
-Distance increases in proportion to the square of the time.
+politics
+conservative
+What do Libertarians value highly?
 
-time
-distance
-freefall
-Is the acceleration of an object with a curving velocity-versus-time graph constant?
+Civil liberties
 
-No, the acceleration is not constant if the graph is curving upward.
+politics
+libertarian
+What do conservatives generally oppose regarding government?
 
-acceleration
-graph
-What happens when a ball is thrown downward at the same time as another ball is dropped?
+Government regulation or intervention.
 
-The thrown ball will reach the ground more rapidly.
+politics
+conservatism
+What tax stance do conservatives typically hold?
 
-freefall
-thrown_ball
-What happens to a skydiver's velocity and acceleration after jumping from a plane?
+Want lower taxes.
 
-Velocity increases until air resistance equals gravitational force, then it becomes constant.
+politics
+taxes
+What is the conservative view on censorship?
 
-velocity
-skydiving
-What happens to a skydiver's velocity when they open their parachute?
+Oppose censorship.
 
-Opening the parachute increases air resistance, reducing their velocity.
+politics
+censorship
+What do conservatives think about government-imposed morality?
 
-air_resistance
-parachute
-How does a ball behave when thrown upwards?
+Do not want government to impose 'morality'.
 
-It accelerates downward due to gravity while initially moving upwards.
+politics
+morality
+What is the conservative stance on economic issues?
 
-gravity
-upward_motion
-What direction is gravitational acceleration?
+Conservative on economic issues.
 
-Downward, toward the center of the Earth.
+politics
+economics
+What is the liberal stance on social issues?
 
-physics
-gravity
-What is the initial velocity of a ball thrown upwards in the example?
+Liberal on moral or social issues.
 
-20 m/s
+politics
+social_issues
+Which Illinois city is in Congressional District 4?
 
-physics
-velocity
-How much does the ball's velocity decrease every second?
+Cicero.
 
-10 m/s
+geography
+illinois
+Name a city in Louisiana's Congressional District 4.
 
-physics
-velocity
-At what time does the ball reach its highest point?
+Alexandria.
 
-At 2 seconds
+geography
+louisiana
+What is the Congressional District in Georgia that includes Savannah?
 
-physics
-time
-What is the ball's velocity at its highest point?
+Congressional District 11.
 
-0 m/s
+geography
+georgia
+Which North Carolina city is in Congressional District 12?
 
-physics
-velocity
-What happens to the ball's velocity after reaching the highest point?
+Charlotte.
 
-It changes direction from upward to downward.
+geography
+north_carolina
+What is the source of the graphics mentioned in the text?
 
-physics
-motion
-What is the ball's acceleration at the top of its path?
+1990s Supreme Court Redistricting Decisions, Peter S. Wattson.
 
--10 m/s²
-
-physics
-acceleration
-How does the ball's velocity change as it travels upward?
-
-It slows down until it reaches the top.
-
-physics
-motion
-What is the free fall equation for velocity?
-
-v = gt = 10t
-
-physics
-equations
-What is the free fall equation for distance?
-
-d = ½ gt² = 5t²
-
-physics
-equations
-How fast is a falling rock moving after 1 second?
-
-10 m/s
-
-physics
-velocity
-How far does a rock fall after 2 seconds?
-
-20 m
-
-physics
-distance
-What happens to the ball's velocity on the way down?
-
-It speeds up.
-
-physics
-motion
-What is the velocity of a ball thrown upward at 30 m/s after 3 seconds?
-
-0 m/s
-
-physics
-velocity
-What happens to the ball at 6 seconds?
-
-It is at the same level with the same speed but opposite direction.
-
-physics
-motion
-What forces act on an object in free fall?
-
-Only gravity acts on it.
-
-physics
-forces
-What qualifies as free fall?
-
-Motion under the influence of gravity alone.
-
-physics
-freefall
-What is the acceleration due to gravity during freefall?
-
-9.8 m/s² (rounded to 10 m/s² for simplicity)
-
-physics
-gravity
-What happens to the velocity of falling objects?
-
-Velocity increases at a constant rate due to gravity.
-
-physics
-velocity
-Does mass affect the speed of falling objects?
-
-No, mass does not affect the speed; air resistance does.
-
-physics
-mass
-What is terminal velocity?
-
-When air resistance equals gravitational force, resulting in constant velocity and zero acceleration.
-
-physics
-terminal_velocity
-What effect does opening a parachute have?
-
-Increases air resistance, reducing downward velocity.
-
-physics
-parachute
-How is average velocity calculated during freefall?
-
-Average velocity = distance traveled / time taken.
-
-physics
-velocity
-What is the formula for velocity in freefall?
-
-v = gt = 10t
-
-physics
-equations
-What is the formula for distance in freefall?
-
-d = ½ gt² = 5t²
-
-physics
-equations
-How far does an object fall in the first second?
-
-In the first second, it travels 5 meters.
-
-physics
-distance
-What happens to a ball thrown upwards?
-
-It accelerates upwards until it reaches its highest point, then falls back down.
-
-physics
-motion
-What is the time at t=2s?
-
-2 seconds
-
-time
-What is the distance at t=2s?
-
-20 meters
-
-distance
-What is the velocity at t=2s?
-
-0 m/s
-
-velocity
-What is the acceleration at t=2s?
-
--10 m/s²
-
-acceleration
-What is the distance at t=1s?
-
-15 meters
-
-distance
-What is the velocity at t=1s?
-
-10 m/s
-
-velocity
-What is the acceleration at t=1s?
-
--10 m/s²
-
-acceleration
-What is the distance at t=3s?
-
-15 meters
-
-distance
-What is the velocity at t=3s?
-
--10 m/s
-
-velocity
-What is the acceleration at t=3s?
-
--10 m/s²
-
-acceleration
-What is the distance at t=0?
-
-0 meters
-
-distance
-What is the velocity at t=0?
-
-+20 m/s
-
-velocity
-What is the acceleration at t=0?
-
--10 m/s²
-
-acceleration
-What is the velocity at t=4s?
-
--20 m/s
-
-velocity
-What is the acceleration at t=4s?
-
--10 m/s²
-
-acceleration
-What is the formula for acceleration?
-
-a = rac{v_f - v_i}{t}
-
-physics
-formula
-What is the formula for velocity?
-
-v = rac{d}{t}
-
-physics
-formula
-What is the formula for distance?
-
-d = v_i t + rac{1}{2} a t^2
-
-physics
-formula
+history
+redistricting
