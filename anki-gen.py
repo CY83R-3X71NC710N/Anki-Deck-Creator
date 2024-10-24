@@ -1,4 +1,3 @@
-# Python
 import genanki
 import random
 import string
@@ -16,16 +15,14 @@ def read_flashcards(file_path):
     flashcards = []
     i = 0
     while i < len(lines):
-        if i + 3 < len(lines):
-            question = lines[i]
-            answer = lines[i+1]
-            category1 = lines[i+2]
-            category2 = lines[i+3]
-            flashcards.append((question, answer, f"{category1}\n{category2}"))
-            i += 4  # Move to the next set of flashcards
-        else:
-            print(f"Warning: Incomplete flashcard entry starting at line {i+1}")
-            break
+        question = lines[i]
+        answer = lines[i+1]
+        categories = []
+        i += 2
+        while i < len(lines) and not lines[i].startswith('What') and not lines[i].startswith('The'):
+            categories.append(lines[i])
+            i += 1
+        flashcards.append((question, answer, categories))
     return flashcards
 
 # Define the model for the flashcards
@@ -35,12 +32,12 @@ model = genanki.Model(
   fields=[
     {'name': 'Question'},
     {'name': 'Answer'},
-    {'name': 'Category'},
+    {'name': 'Categories'},
   ],
   templates=[
     {
       'name': 'Card 1',
-      'qfmt': '{{Question}}<br><br><i>{{Category}}</i>',
+      'qfmt': '{{Question}}<br><br><i>{{Categories}}</i>',
       'afmt': '{{FrontSide}}<hr id="answer">{{Answer}}',
     },
   ])
@@ -58,10 +55,10 @@ deck = genanki.Deck(
 flashcards = read_flashcards('flashcards.txt')
 
 # Add flashcards to the deck
-for question, answer, category in flashcards:
+for question, answer, categories in flashcards:
   note = genanki.Note(
     model=model,
-    fields=[question, answer, category])
+    fields=[question, answer, ', '.join(categories)])
   deck.add_note(note)
 
 # Create a package and write to a file with a random name
