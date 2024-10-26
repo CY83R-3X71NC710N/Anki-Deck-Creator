@@ -1,60 +1,321 @@
-Where can you find more information about fruit needs?
+What is the driving question of the Forces Unit?
 
-My Plate Link.
+What causes acceleration?
 
-nutrition
-resources
-What is the best form of fruit to consume?
+physics
+forces
+Who revolutionized physics by introducing the concept of forces?
 
-Fresh is best, frozen is next.
+Isaac Newton
 
-nutrition
-fruit
-What can help you feel full while eating fewer calories?
+history
+physics
+What does Newton's 1st Law state?
 
-Fiber-rich fruits.
+An object stays still or keeps moving at a steady pace unless an external force acts on it.
 
-nutrition
-fiber
-What does dietary fiber in fruits help reduce?
+physics
+newton's_laws
+What is a force?
 
-Cholesterol.
+A push or a pull.
 
-nutrition
-fiber
-What may lower the risk for heart disease?
+physics
+forces
+What does a free-body diagram display?
 
-Fiber in fruits.
+The size and direction of forces acting on an object.
 
-health
-nutrition
-What should you do to make fruits more appealing for kids?
+physics
+diagrams
+What does Newton's 2nd Law state about acceleration?
 
-Add fruits to existing favorites.
+Acceleration depends on the amount of force and the object's mass.
 
-children
-nutrition
-How can you add fruit to cereal?
+physics
+newton's_laws
+How is force related to acceleration according to Newton's 2nd Law?
 
-Topping cereal with fruit.
+Force is directly proportional to acceleration.
 
-nutrition
-fruit
-What is a fun way to serve fruits?
+physics
+newton's_laws
+How is mass related to acceleration according to Newton's 2nd Law?
 
-Making kabobs.
+Mass is inversely proportional to acceleration.
 
-nutrition
-fruit
-What can you dip apples or bananas in for a snack?
+physics
+newton's_laws
+What is the formula for force according to Newton's 2nd Law?
 
-Peanut butter or yogurt dip.
+Mass x acceleration = force.
 
-nutrition
-snacks
-What types of fruit can be added to green salads?
+physics
+formulas
+What is inertia?
 
-Oranges, pink grapefruit, grapes, pineapple, mango, strawberries.
+Resistance to a change in motion.
 
-nutrition
-fruit
+physics
+inertia
+What determines an object's acceleration?
+
+The total or net force acting on it.
+
+physics
+forces
+What happens when two equal-magnitude horizontal forces act on a box?
+
+There is no acceleration, as the forces cancel each other out.
+
+physics
+forces
+Can an object be moving if equal forces are acting on it?
+
+Yes, it can be moving with constant speed despite no acceleration.
+
+physics
+forces
+What is one condition of Equilibrium?
+
+The net force acting on an object is zero.
+
+physics
+equilibrium
+Will an object be accelerated by two equal forces acting in the same direction?
+
+Yes, the object will be accelerated toward the upper right corner.
+
+physics
+forces
+What is the mass of a box if its acceleration is 4.0 m/s² and the net force is 20 N?
+
+5 kg.
+
+physics
+mass
+What is the net horizontal force acting on a 4-kg block with forces of 5 N, 25 N, and -10 N?
+
+20 N directed to the right.
+
+physics
+forces
+What is the horizontal acceleration of a 4-kg block with a net force of 20 N?
+
+5 m/s² directed to the right.
+
+physics
+acceleration
+What is inertia?
+
+Inertia is an object’s resistance to a change in its motion.
+
+physics
+inertia
+How is mass defined?
+
+Mass is a measure of an object’s inertia.
+
+physics
+mass
+What are the units of mass?
+
+Kilograms (kg).
+
+physics
+units
+What is weight?
+
+Weight is the gravitational force acting on an object.
+
+weight
+physics
+What are the units of weight?
+
+Newtons (N).
+
+physics
+units
+What is the relationship between mass and weight?
+
+Weight is calculated as W = mg, where g = 10 m/s² on Earth.
+
+weight
+physics
+gravity
+What does a 2 kg tub of butter weigh?
+
+20 N at the surface of the earth.
+
+weight
+physics
+What is the net force acting on a ball hanging at rest from a string?
+
+Zero, since the forces cancel each other.
+
+physics
+equilibrium
+forces
+Will two masses connected by a string on a frictionless pulley accelerate if one is larger?
+
+Yes, the heavier mass will fall, causing the other to rise.
+
+physics
+forces
+pulleys
+Will two masses accelerate if m2 is larger than m1?
+
+Yes, mass m2 will fall and mass m1 will rise, both increasing speed and having the same magnitude of acceleration.
+
+physics
+acceleration
+What does Newton's 3rd Law state?
+
+For every action (force), there is an equal but opposite reaction (force).
+
+physics
+newton's_law
+Why is a heavier chair harder to move?
+
+It pushes back with more force due to Newton's 3rd Law.
+
+physics
+force
+What forces act on an object?
+
+For example, gravitational force (W) and normal force (N).
+
+physics
+forces
+What is the normal force?
+
+The force a surface exerts on an object in the opposite direction of gravity.
+
+physics
+normal_force
+What are action-reaction forces?
+
+They are equal and opposite forces acting on different objects.
+
+physics
+action-reaction
+What is the net force?
+
+The overall force acting on an object, determining its acceleration.
+
+physics
+net_force
+Does a stick of Dynamite contain force?
+
+No, it contains energy that creates force when released.
+
+physics
+energy
+Does the moon pull on the earth?
+
+Yes, it pulls with the same amount of force as the earth pulls on the moon.
+
+physics
+gravity
+Why does a kicked football move?
+
+The net force is not zero; the football has less mass, resulting in greater acceleration.
+
+physics
+newton's_law
+What happens if you kick a wall?
+
+It will not accelerate because the same force acts on an object with greater mass.
+
+physics
+force
+What does Newton's 1st Law state?
+
+An object stays still or moves at a steady pace unless acted upon by an external force.
+
+physics
+laws
+What is a force?
+
+A force is a push or a pull acting on an object.
+
+physics
+forces
+What does a free-body diagram display?
+
+It displays the size and direction of forces acting on an object.
+
+physics
+diagrams
+What is Newton's 2nd Law?
+
+Acceleration depends on mass and force, expressed as a = F/m.
+
+physics
+laws
+How is force calculated?
+
+Force is calculated as mass x acceleration and measured in Newtons.
+
+physics
+calculations
+What does mass indicate about an object?
+
+Mass indicates how much resistance (inertia) the object has to changes in motion.
+
+physics
+mass
+What is an object's weight?
+
+Weight is the gravitational force acting on the object.
+
+weight
+physics
+What determines an object's acceleration?
+
+The total (net) force acting on the object determines its acceleration.
+
+physics
+acceleration
+What is Newton's 3rd Law?
+
+For every action, there is an equal but opposite reaction.
+
+physics
+laws
+What is the normal force?
+
+The normal force is the force a surface exerts on an object in the opposite direction of gravity.
+
+physics
+forces
+What are action-reaction forces?
+
+Action-reaction forces are pairs that involve different objects acting on each other.
+
+physics
+forces
+What is the formula for force?
+
+The formula for force is F = ma.
+
+physics
+formulas
+What is the unit of force?
+
+1 Newton (1 N) is the unit of force, equal to 1 kg·m/s².
+
+physics
+units
+What is the name of the card?
+
+Lash
+
+name
+card
+What is the numerical value associated with the card?
+
+5
+
+number
+card
