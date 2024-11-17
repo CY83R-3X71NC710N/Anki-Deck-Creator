@@ -28,21 +28,24 @@ def read_flashcards(file_path):
 
 # Use the existing Basic model ID and details
 BASIC_MODEL_ID = 1731801871221
-BASIC_MODEL_FIELDS = [{'name': 'Front'}, {'name': 'Back'}]
-BASIC_MODEL_TEMPLATES = [
-    {
-        'name': 'Card 1',
-        'qfmt': '{{Front}}',
-        'afmt': '{{FrontSide}}<hr id="answer">{{Back}}',
-    },
-]
+BASIC_MODEL_FIELDS = ['Front', 'Back']
+BASIC_MODEL_TEMPLATES = {
+    "Card 1": {
+        "Front": "{{Front}}",
+        "Back": "{{FrontSide}}<hr id=\"answer\">{{Back}}"
+    }
+}
 
 # Define the model for the flashcards using Anki's Basic model
 model = genanki.Model(
   BASIC_MODEL_ID,
   'Basic',
-  fields=BASIC_MODEL_FIELDS,
-  templates=BASIC_MODEL_TEMPLATES
+  fields=[{'name': field} for field in BASIC_MODEL_FIELDS],
+  templates=[{
+      'name': name,
+      'qfmt': template['Front'],
+      'afmt': template['Back']
+  } for name, template in BASIC_MODEL_TEMPLATES.items()]
 )
 
 # Generate random deck name and file name
