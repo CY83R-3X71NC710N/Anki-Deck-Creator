@@ -1,132 +1,54 @@
-What is a requirement to be President regarding citizenship?
+What is a key reason for checks on the presidency?
 
-Natural born citizen
+To ensure accountability and prevent abuse of power.
 
-citizenship
+government
+checks
+What is the situation regarding appointing Supreme Court justices?
+
+The President appoints justices, but this power can be checked by Congress and the courts.
+
+government
+supremecourt
+What are some ways a President can bypass Congress?
+
+Veto bills, pocket veto, file lawsuits, recess appointments, refusal to cooperate, presidential budget, executive orders.
+
+government
 presidency
-What is the minimum age to be President?
+What is legislative oversight?
 
-At least 35 years old
+Congress's ability to monitor and check the actions of the executive branch.
 
-age
-presidency
-How many years must a President have lived in the US?
+government
+congress
+How can Congress override a presidential veto?
 
-14 years
+By obtaining a two-thirds majority in both houses of Congress.
 
-residency
-presidency
-What is the term length for a President?
+government
+veto
+What is an executive order?
 
-4 years
+A directive issued by the President to manage the operations of the federal government.
 
-term
-presidency
-What is the maximum number of terms a President can serve?
+government
+executiveorder
+What must an executive order be rooted in?
 
-Two terms
+It must be rooted in Article II of the Constitution.
 
-terms
-presidency
-Which amendment limits presidential terms?
+government
+executiveorder
+What can happen to an executive order?
 
-22nd Amendment
+It can be rescinded by the next President, overridden by Congress, or declared unconstitutional by courts.
 
-amendments
-presidency
-What is the annual salary of the President?
+government
+executiveorder
+What does the Constitution say about executive orders?
 
-$400,000
+They must clarify or act to further a law put forth by Congress or the Constitution.
 
-salary
-presidency
-What is the additional discretionary spending amount for the President?
-
-$50,000
-
-discretionary
-presidency
-What is the name of the presidential aircraft?
-
-Air Force One
-
-aircraft
-presidency
-What is one formal power of the President?
-
-Make treaties with Senate approval
-
-presidency
-formal_powers
-What can the President do with bills?
-
-Veto or sign bills
-
-legislation
-presidency
-What address does the President give annually?
-
-State of the Union address
-
-address
-presidency
-Who does the President receive?
-
-Foreign leaders
-
-diplomacy
-presidency
-What is the President's role as Commander-in-Chief?
-
-Control over military actions
-
-military
-presidency
-What is a limited power of the President?
-
-Make laws
-
-presidency
-limited_powers
-What is the role of Chief of State?
-
-Symbol of the nation
-
-roles
-presidency
-What does the Chief Executive do?
-
-Carries out powers of the Executive branch
-
-roles
-presidency
-What is an Executive Order?
-
-Presidential power to act without Congress approval
-
-presidency
-executive_order
-What is the role of Chief Diplomat?
-
-Architect of foreign policy
-
-diplomacy
-presidency
-What does the Chief Legislator do?
-
-Initiates and requests legislation from Congress
-
-legislation
-presidency
-What is the role of Chief of Party?
-
-Leader of their political party
-
-party
-presidency
-What does the Chief Citizen represent?
-
-All people
-
-citizenship
-presidency
+government
+executiveorder
