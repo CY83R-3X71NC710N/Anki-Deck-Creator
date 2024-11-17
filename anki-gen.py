@@ -15,35 +15,42 @@ def read_flashcards(file_path):
     flashcards = []
     i = 0
     while i < len(lines):
-        if i + 2 < len(lines):
+        categories = []
+        # Collect categories
+        while i < len(lines) and not lines[i].endswith('?'):
+            categories.append(lines[i])
+            i += 1
+        # Ensure there are enough lines for a question and answer
+        if i < len(lines) and lines[i].endswith('?'):
             question = lines[i]
-            answer = lines[i+1]
-            # Skip the next line as it is a category
-            i += 3  # Move to the next set of flashcards
-            flashcards.append((question, answer))
+            i += 1
+            if i < len(lines):
+                answer = lines[i]
+                flashcards.append((question, answer, categories))
+                i += 1
+            else:
+                print(f"Warning: Missing answer for question starting at line {i+1}")
         else:
             print(f"Warning: Incomplete flashcard entry starting at line {i+1}")
             break
     return flashcards
 
-# Use the existing Basic model ID and details
-BASIC_MODEL_ID = 1731801871221
-BASIC_MODEL_FIELDS = [{'name': 'Front'}, {'name': 'Back'}]
-BASIC_MODEL_TEMPLATES = [
-    {
-        'name': 'Card 1',
-        'qfmt': '{{Front}}',
-        'afmt': '{{FrontSide}}<hr id="answer">{{Back}}',
-    },
-]
-
-# Define the model for the flashcards using Anki's Basic model
+# Define the model for the flashcards
 model = genanki.Model(
-  BASIC_MODEL_ID,
-  'Basic',
-  fields=BASIC_MODEL_FIELDS,
-  templates=BASIC_MODEL_TEMPLATES
-)
+  1607392319,
+  'Simple Model',
+  fields=[
+    {'name': 'Question'},
+    {'name': 'Answer'},
+    {'name': 'Categories'},
+  ],
+  templates=[
+    {
+      'name': 'Card 1',
+      'qfmt': '{{Question}}<br><br><i>{{Categories}}</i>',
+      'afmt': '{{FrontSide}}<hr id="answer">{{Answer}}',
+    },
+  ])
 
 # Generate random deck name and file name
 deck_name = random_string()
@@ -58,10 +65,10 @@ deck = genanki.Deck(
 flashcards = read_flashcards('flashcards.txt')
 
 # Add flashcards to the deck
-for question, answer in flashcards:
+for question, answer, categories in flashcards:
   note = genanki.Note(
     model=model,
-    fields=[question, answer])
+    fields=[question, answer, ', '.join(categories)])
   deck.add_note(note)
 
 # Create a package and write to a file with a random name
