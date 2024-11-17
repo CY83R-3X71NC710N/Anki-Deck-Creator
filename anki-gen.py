@@ -10,7 +10,7 @@ def random_string(length=10):
 # Read flashcards from a text file
 def read_flashcards(file_path):
     with open(file_path, 'r') as file:
-        lines = [line.strip() for line in file if line.strip()]  # Remove empty lines and strip whitespace
+        lines = [line.strip() for line if line.strip()]  # Remove empty lines and strip whitespace
 
     flashcards = []
     i = 0
@@ -38,7 +38,7 @@ def read_flashcards(file_path):
 # Define the model for the flashcards
 model = genanki.Model(
   1607392319,
-  'Simple Model',
+  'AnkiGen',
   fields=[
     {'name': 'Question'},
     {'name': 'Answer'},
