@@ -1,288 +1,72 @@
-How many members are in Congress?
+What happens if no candidate receives a majority of electoral votes?
 
-535 members
+The House of Representatives chooses the President.
 
-congress
-membership
-How many members are in the House of Representatives?
-
-435 members
-
-house
-membership
-How many members are in the Senate?
-
-100 members
-
-membership
-senate
-What are the two parts of Congress?
-
-The Senate and the House of Representatives
-
-structure
-congress
-What is the minimum age to be in the House of Representatives?
-
-At least 25 years old
-
-house
-qualifications
-How long must a House member be a US citizen?
-
-At least 7 years
-
-house
-qualifications
-Where must House members live?
-
-In the state they are elected from
-
-house
-qualifications
-What is the typical reelection rate for incumbents in the House?
-
-90% of incumbents win reelection
-
-house
-reelection
-What is the term length for House representatives?
-
-2 years
-
-house
-term_length
-How many members are guaranteed to each state in the House?
-
-At least one member
-
-house
-apportionment
-What is the population per House seat?
-
-~700,000 people per house seat
-
-house
-representation
-How many members does the Senate have from each state?
-
-Two members from each state
-
-membership
-senate
-What is the term length for Senate members?
-
-6 years
-
-senate
-term_length
-How often are Senate elections staggered?
-
-Every two years, only 1/3rd is up for reelection
-
+government
 elections
-senate
-What is the minimum age to be in the Senate?
+In which years did the House choose the President?
 
-At least 30 years old
+1801 and 1825.
 
-qualifications
-senate
-How long must a Senate member be a US citizen?
+history
+elections
+What does impeachment mean?
 
-At least 9 years
-
-qualifications
-senate
-When does Congress begin a new term?
-
-Every two years on January 3rd
-
-congress
-terms
-How many sessions are there per Congress term?
-
-Two sessions per term
-
-congress
-sessions
-What are expressed powers?
-
-Powers stated in the constitution
-
-congress
-powers
-What are implied powers?
-
-Generally understood powers
-
-congress
-powers
-What are concurrent powers?
-
-Powers shared by federal and state governments
-
-congress
-powers
-What are shared powers?
-
-Powers shared between state and federal governments.
-
-government
-powers
-What is the Commerce Clause?
-
-It grants Congress the power to regulate commerce.
-
-government
-commerce
-What does the 'Power of the Purse' refer to?
-
-The ability to tax and spend public money.
-
-finance
-government
-What can Congress do regarding taxes?
-
-Congress can levy taxes, borrow money, and manage bankruptcy laws.
-
-taxes
-government
-What power does Congress have over currency?
-
-Congress has the power to regulate currency.
-
-government
-currency
-What is one of Congress's powers related to war?
-
-Congress has the power to declare war.
-
-government
-war
-What can Congress maintain as part of its expressed powers?
-
-Congress can maintain a navy.
-
-military
-government
-What laws can Congress enact related to intellectual property?
-
-Congress can enact copyright laws.
-
-copyright
-government
-What postal service power does Congress have?
-
-Congress has the power to establish a post office.
-
-government
-postal
-What does Congress regulate in terms of weights?
-
-Congress regulates weights and measures.
-
-government
-weights
-What is Congress's role in naturalization?
-
-Congress has the power to establish naturalization laws.
-
-government
-naturalization
-What is the House of Representatives' role in revenue?
-
-The House initiates revenue bills.
-
-house
-government
-What power does the House have regarding impeachment?
-
-The House can impeach federal officials.
+To bring charges against the President, Vice President, or other civil officers.
 
 government
 impeachment
-What happens if there is an Electoral College tie?
+Who has the power to impeach?
 
-The House selects the President in an Electoral College tie.
-
-government
-electoral_college
-What is a Senate power related to appointments?
-
-The Senate confirms appointments.
-
-government
-senate
-What treaty-related power does the Senate have?
-
-The Senate ratifies treaties.
-
-government
-treaties
-What does the Senate do with impeached officials?
-
-The Senate tries impeached officials.
+The House of Representatives.
 
 government
 impeachment
-What percentage of GDP is net interest for the GOP?
+What is required for the House to impeach?
 
-1.3% of GDP is net interest for the GOP.
+A majority vote.
 
-economy
-gdp
-What is the total amount for corporate income taxes?
+government
+impeachment
+Who tries the official in an impeachment?
 
-$300 billion from individual income taxes.
+The Senate.
 
-economy
-taxes
-What is the discretionary defense spending amount?
+government
+impeachment
+Who presides over the impeachment trial?
 
-$1.5 trillion in discretionary defense spending.
+The chief justice.
 
-economy
-defense
-What percentage of GDP does defense spending represent?
+government
+impeachment
+What vote is needed by the Senate to remove a person from office?
 
-Defense spending represents 6.4% of GDP.
+A 2/3rds vote.
 
-economy
-defense
-What is the payroll spending amount?
+government
+impeachment
+Who must confirm all major appointments by the President?
 
-$1.2 trillion in payroll spending.
+The Senate.
 
-economy
-payroll
-What percentage of GDP is payroll spending?
+government
+appointments
+What positions require Senate confirmation?
 
-Payroll spending is 3.1% of GDP.
+Supreme Court Justice and cabinet members.
 
-economy
-payroll
-What is the spending on Medicare?
+government
+appointments
+What issue arises if the President and Senate majority are from different parties?
 
-Medicare spending is $563 billion.
+The appointment process can become difficult.
 
-economy
-medicare
-What does mandatory spending include?
+government
+appointments
+Is it common for the Senate to reject a President's nominee?
 
-Includes unemployment compensation, retirement, and veterans' benefits.
+Rarely.
 
-economy
-mandatory_spending
-What does discretionary spending cover?
-
-Covers transportation, education, and housing assistance.
-
-economy
-discretionary_spending
-What types of taxes contribute to revenues?
-
-Excise taxes, estate taxes, and customs duties contribute to revenues.
-
-economy
-taxes
+government
+appointments
