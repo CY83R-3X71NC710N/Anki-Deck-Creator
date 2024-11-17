@@ -1,126 +1,132 @@
-What are the four voting behaviors in Congress?
+What is a requirement to be President regarding citizenship?
 
-Partisan, Trustee, Delegate, Politico
+Natural born citizen
 
-politics
-voting
-What does Partisan voting mean?
+citizenship
+presidency
+What is the minimum age to be President?
 
-Vote based on party alignment
+At least 35 years old
 
-politics
-voting
-What does Trustee voting entail?
+age
+presidency
+How many years must a President have lived in the US?
 
-Vote independently, based on their own judgment
+14 years
 
-politics
-voting
-What is Delegate voting?
+residency
+presidency
+What is the term length for a President?
 
-Represent the views of their constituents
+4 years
 
-politics
-voting
-What are the two types of Delegate voting?
+term
+presidency
+What is the maximum number of terms a President can serve?
 
-Substantive and Descriptive
+Two terms
 
-politics
-voting
-What is Substantive Delegate voting based on?
+terms
+presidency
+Which amendment limits presidential terms?
 
-Particular groups of people
+22nd Amendment
 
-politics
-voting
-What is Descriptive Delegate voting based on?
+amendments
+presidency
+What is the annual salary of the President?
 
-Unique identifiers (race, gender, geography, etc.)
+$400,000
 
-politics
-voting
-What is Politico voting?
+salary
+presidency
+What is the additional discretionary spending amount for the President?
 
-Combination of Partisan, Trustee, and Delegate
+$50,000
 
-politics
-voting
-What does Partisanship cause?
+discretionary
+presidency
+What is the name of the presidential aircraft?
 
-Divided Government, Gridlock, Pandemonium, Anarchy
+Air Force One
 
-politics
-partisanship
-Who gets to draw district borders?
+aircraft
+presidency
+What is one formal power of the President?
 
-The States
+Make treaties with Senate approval
 
-politics
-redistricting
-What is Gerrymandering?
+presidency
+formal_powers
+What can the President do with bills?
 
-Drawing district lines to give a political party an advantage
+Veto or sign bills
 
-politics
-redistricting
-What is the method of Packing in gerrymandering?
+legislation
+presidency
+What address does the President give annually?
 
-Concentrating the opposing party into one district
+State of the Union address
 
-politics
-redistricting
-What is the method of Cracking in gerrymandering?
+address
+presidency
+Who does the President receive?
 
-Splitting up minority party support over several districts
+Foreign leaders
 
-politics
-redistricting
-What is Kidnapping in gerrymandering?
+diplomacy
+presidency
+What is the President's role as Commander-in-Chief?
 
-Moving incumbent candidates into a new district where they are unlikely to win
+Control over military actions
 
-politics
-redistricting
-Is Partisan Gerrymandering allowed?
+military
+presidency
+What is a limited power of the President?
 
-Yes
+Make laws
 
-politics
-redistricting
-Is Racial Gerrymandering allowed?
+presidency
+limited_powers
+What is the role of Chief of State?
 
-No
+Symbol of the nation
 
-politics
-redistricting
-What was the issue in Baker v. Carr (1961)?
+roles
+presidency
+What does the Chief Executive do?
 
-Whether the Supreme Court had authority over legislative apportionment cases
+Carries out powers of the Executive branch
 
-politics
-court_cases
-What did Baker v. Carr (1961) conclude?
+roles
+presidency
+What is an Executive Order?
 
-Supreme Court has authority due to Equal Protection issues
+Presidential power to act without Congress approval
 
-politics
-court_cases
-What doctrine did Baker v. Carr (1961) help develop?
+presidency
+executive_order
+What is the role of Chief Diplomat?
 
-One person, one vote doctrine
+Architect of foreign policy
 
-politics
-court_cases
-What was the issue in Shaw v. Reno (1993)?
+diplomacy
+presidency
+What does the Chief Legislator do?
 
-Whether racial gerrymandering occurred in a proposed district
+Initiates and requests legislation from Congress
 
-politics
-court_cases
-What did the Supreme Court hold in Shaw v. Reno (1993)?
+legislation
+presidency
+What is the role of Chief of Party?
 
-The district's odd shape indicated an effort to separate voters racially
+Leader of their political party
 
-politics
-court_cases
+party
+presidency
+What does the Chief Citizen represent?
+
+All people
+
+citizenship
+presidency
