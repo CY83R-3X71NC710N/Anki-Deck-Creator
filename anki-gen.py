@@ -27,7 +27,7 @@ def read_flashcards(file_path):
     return flashcards
 
 # Use the existing Basic model ID
-BASIC_MODEL_ID = 1091735104
+BASIC_MODEL_ID = 1731801871221
 
 # Generate random deck name and file name
 deck_name = random_string()
