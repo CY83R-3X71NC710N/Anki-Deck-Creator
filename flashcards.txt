@@ -1,42 +1,231 @@
-What is the focus of section 2.12 - 2.15?
+What is the term length for Senators?
 
-The Bureaucracy
-
-government
-bureaucracy
-What concept describes the relationship between Congress, the bureaucracy, and interest groups?
-
-The Iron Triangle
-
-policy
-iron_triangle
-What is the process of putting policy into action called?
-
-Policy Implementation
-
-implementation
-policy
-What section discusses examples of policy implementation?
-
-Policy Implementation - EXAMPLES
-
-examples
-policy
-What type of checks does Congress have over the bureaucracy?
-
-Congressional Checks
+6 years
 
 congress
-checks
-What type of checks does the President have over the bureaucracy?
+terms
+senate
+What is the minimum age requirement for Senators?
 
-Presidential Checks
+30 years old
+
+requirements
+congress
+senate
+How long must a Senator be a U.S. citizen?
+
+9 years
+
+citizenship
+congress
+senate
+What is the term length for Representatives?
+
+2 years
+
+house
+congress
+terms
+What is the minimum age requirement for Representatives?
+
+25 years old
+
+requirements
+house
+congress
+How long must a Representative be a U.S. citizen?
+
+7 years
+
+house
+citizenship
+congress
+Why does the House operate under strict rules?
+
+Due to its size (435 members)
+
+rules
+house
+congress
+What is the size of the Senate?
+
+100 members
+
+size
+congress
+senate
+What are expressed powers?
+
+Powers explicitly stated in the Constitution.
+
+congress
+powers
+expressed
+What are implied powers?
+
+Powers not explicitly stated but implied through the Necessary and Proper Clause.
+
+congress
+powers
+implied
+What does the Necessary and Proper Clause allow?
+
+Allows Congress to pass laws needed to execute its enumerated powers.
+
+congress
+powers
+necessary_and_proper
+Who presides over the House?
+
+Speaker of the House
+
+leadership
+congress
+speaker
+Who presides over the Senate in the Vice President's absence?
+
+President Pro Tempore
+
+leadership
+congress
+senate
+What is the role of the Whip in Congress?
+
+Ensures party discipline in votes.
+
+leadership
+congress
+whip
+What is the Senate's specific power regarding treaties?
+
+Approves treaties.
+
+congress
+powers
+senate
+What is the House's specific power regarding revenue bills?
+
+Initiates revenue bills.
+
+house
+congress
+powers
+What is a filibuster?
+
+Extended debate to block a vote in the Senate.
+
+congress
+legislation
+filibuster
+What is pork-barrel legislation?
+
+Adding unrelated amendments to benefit local projects.
+
+congress
+legislation
+pork-barrel
+What is gerrymandering?
+
+Redrawing districts to favor a party.
+
+behavior
+congress
+gerrymandering
+What did BAKER V. CARR ensure?
+
+Fair representation by mandating equal apportionment.
+
+behavior
+congress
+baker_v._carr
+What did SHAW V. RENO rule unconstitutional?
+
+Racial gerrymandering.
+
+behavior
+congress
+shaw_v._reno
+What is a formal power of the President?
+
+Veto power.
 
 president
-checks
-What type of checks does the judiciary have over the bureaucracy?
+executive
+powers
+What is an informal power of the President?
 
-Judicial Checks
+Executive orders.
 
-checks
+president
+executive
+powers
+What does the 22nd Amendment limit?
+
+Limits the president to two terms.
+
+president
+executive
+22nd_amendment
+What is the State of the Union Address?
+
+Annual speech to Congress outlining agenda.
+
+communication
+executive
+state_of_the_union
+What is the Bully Pulpit?
+
+Using the presidency to promote policies directly to the public.
+
+communication
+executive
+bully_pulpit
+What did BRUTUS 15 express concern over?
+
+Judicial power.
+
+concerns
 judicial
+brutus_15
+What did FEDERALIST No. 78 argue for?
+
+Judicial independence to check other branches.
+
+judicial
+federalist
+no._78
+What did MARBURY VS. MADISON establish?
+
+Judicial review, allowing courts to declare laws unconstitutional.
+
+judicial
+court_cases
+marbury_vs._madison
+What is stare decisis?
+
+Upholding precedent in decisions.
+
+principles
+judicial
+stare_decisis
+What is judicial activism?
+
+Courts actively shaping policy.
+
+behavior
+judicial
+judicial_activism
+What can Congress do as a legislative check?
+
+Pass amendments or alter jurisdiction.
+
+government
+congress
+checks
+What power does the President have as an executive check?
+
+Appoint judges and issue pardons.
+
+government
+president
+checks
