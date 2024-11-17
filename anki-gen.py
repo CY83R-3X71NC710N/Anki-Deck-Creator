@@ -15,32 +15,19 @@ def read_flashcards(file_path):
     flashcards = []
     i = 0
     while i < len(lines):
-        if i + 3 < len(lines):
+        if i + 2 < len(lines):
             question = lines[i]
             answer = lines[i+1]
-            # Skip the next two lines as they are categories
-            i += 4  # Move to the next set of flashcards
+            # Skip the next line as it is a category
+            i += 3  # Move to the next set of flashcards
             flashcards.append((question, answer))
         else:
             print(f"Warning: Incomplete flashcard entry starting at line {i+1}")
             break
     return flashcards
 
-# Define the model for the flashcards using Anki's Basic model
-model = genanki.Model(
-  1373794392,  # This is the model ID for Anki's Basic model
-  'Basic',
-  fields=[
-    {'name': 'Front'},
-    {'name': 'Back'},
-  ],
-  templates=[
-    {
-      'name': 'Card 1',
-      'qfmt': '{{Front}}',
-      'afmt': '{{FrontSide}}<hr id="answer">{{Back}}',
-    },
-  ])
+# Use the existing Basic model ID
+BASIC_MODEL_ID = 1091735104
 
 # Generate random deck name and file name
 deck_name = random_string()
@@ -57,7 +44,7 @@ flashcards = read_flashcards('flashcards.txt')
 # Add flashcards to the deck
 for question, answer in flashcards:
   note = genanki.Note(
-    model=model,
+    model=genanki.Model(BASIC_MODEL_ID, 'Basic'),
     fields=[question, answer])
   deck.add_note(note)
 
