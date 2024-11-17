@@ -1,54 +1,60 @@
-What is a key reason for checks on the presidency?
+Who wrote 'Federalist No. 70'?
 
-To ensure accountability and prevent abuse of power.
+Alexander Hamilton
 
+history
+politics
+What does a 'feeble Executive' imply?
+
+A feeble execution of the government
+
+politics
 government
-checks
-What is the situation regarding appointing Supreme Court justices?
+What is considered the most necessary qualification for the executive?
 
-The President appoints justices, but this power can be checked by Congress and the courts.
+Energy
 
+politics
+executive
+What are the dangers of a plurality in the Executive?
+
+Difference of opinion, personal emulation, and animosity
+
+politics
 government
-supremecourt
-What are some ways a President can bypass Congress?
+What does the plurality of the Executive deprive the people of?
 
-Veto bills, pocket veto, file lawsuits, recess appointments, refusal to cooperate, presidential budget, executive orders.
+Restraints of public opinion and opportunity to discover misconduct
 
+accountability
+politics
+What is the purpose of the Electoral College according to Federalist No. 70?
+
+To leave the election to those of prestige and power
+
+politics
+elections
+What are the key features of a strong executive according to Federalist No. 70?
+
+Unity, dependence on re-election, sufficient term, competent powers, secrecy, and energy
+
+politics
+executive
+What amendment limits presidential terms?
+
+22nd Amendment
+
+politics
+amendments
+What is the significance of having a single executive leader?
+
+To act without delay and ensure accountability
+
+leadership
+politics
+What is one of the concerns about multiple executives?
+
+They might impede important measures of the government
+
+politics
 government
-presidency
-What is legislative oversight?
-
-Congress's ability to monitor and check the actions of the executive branch.
-
-government
-congress
-How can Congress override a presidential veto?
-
-By obtaining a two-thirds majority in both houses of Congress.
-
-government
-veto
-What is an executive order?
-
-A directive issued by the President to manage the operations of the federal government.
-
-government
-executiveorder
-What must an executive order be rooted in?
-
-It must be rooted in Article II of the Constitution.
-
-government
-executiveorder
-What can happen to an executive order?
-
-It can be rescinded by the next President, overridden by Congress, or declared unconstitutional by courts.
-
-government
-executiveorder
-What does the Constitution say about executive orders?
-
-They must clarify or act to further a law put forth by Congress or the Constitution.
-
-government
-executiveorder
