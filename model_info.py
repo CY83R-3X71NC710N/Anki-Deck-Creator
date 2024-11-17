@@ -1,68 +1,51 @@
-import genanki
-import random
-import string
+import requests
+import json
 
-# Function to generate a random string
-def random_string(length=10):
-    letters = string.ascii_letters
-    return ''.join(random.choice(letters) for i in range(length))
+def get_model_info(model_name):
+    request_payload = {
+        "action": "modelNamesAndIds",
+        "version": 6
+    }
+    response = requests.post('http://localhost:8765', json=request_payload)
+    result = response.json()
+    models = result.get('result', {})
+    model_id = models.get(model_name)
 
-# Read flashcards from a text file
-def read_flashcards(file_path):
-    with open(file_path, 'r') as file:
-        lines = [line.strip() for line in file if line.strip()]  # Remove empty lines and strip whitespace
+    if model_id:
+        request_payload = {
+            "action": "modelFieldNames",
+            "version": 6,
+            "params": {
+                "modelName": model_name
+            }
+        }
+        response = requests.post('http://localhost:8765', json=request_payload)
+        fields = response.json().get('result', [])
 
-    flashcards = []
-    i = 0
-    while i < len(lines):
-        if i + 2 < len(lines):
-            question = lines[i]
-            answer = lines[i+1]
-            # Skip the next line as it is a category
-            i += 3  # Move to the next set of flashcards
-            flashcards.append((question, answer))
-        else:
-            print(f"Warning: Incomplete flashcard entry starting at line {i+1}")
-            break
-    return flashcards
+        request_payload = {
+            "action": "modelTemplates",
+            "version": 6,
+            "params": {
+                "modelName": model_name
+            }
+        }
+        response = requests.post('http://localhost:8765', json=request_payload)
+        templates = response.json().get('result', {})
 
-# Define the model for the flashcards using Anki's Basic model
-model = genanki.Model(
-  1731801871221,  # This is the model ID for Anki's Basic model
-  'Basic',
-  fields=[
-    {'name': 'Front'},
-    {'name': 'Back'},
-  ],
-  templates=[
-    {
-      'name': 'Card 1',
-      'qfmt': '{{Front}}',
-      'afmt': '{{FrontSide}}<hr id="answer">{{Back}}',
-    },
-  ])
+        return {
+            "model_id": model_id,
+            "fields": fields,
+            "templates": templates
+        }
+    else:
+        return None
 
-# Generate random deck name and file name
-deck_name = random_string()
-file_name = f'{random_string()}.apkg'
+model_name = "Basic"  # Replace with the name of your model
+model_info = get_model_info(model_name)
 
-# Create a new deck with a random name
-deck = genanki.Deck(
-  random.randint(1 << 30, 1 << 31),
-  deck_name)
-
-# Read flashcards from the text file
-flashcards = read_flashcards('flashcards.txt')
-
-# Add flashcards to the deck
-for question, answer in flashcards:
-  note = genanki.Note(
-    model=model,
-    fields=[question, answer])
-  deck.add_note(note)
-
-# Create a package and write to a file with a random name
-package = genanki.Package(deck)
-package.write_to_file(file_name)
-
-print(f'Deck "{deck_name}" has been created and saved as "{file_name}".')
+if model_info:
+    print(f"Model ID for '{model_name}': {model_info['model_id']}")
+    print(f"Fields: {model_info['fields']}")
+    print(f"Templates: {json.dumps(model_info['templates'], indent=2)}")
+else:
+    print(f"Model '{model_name}' not found.")
