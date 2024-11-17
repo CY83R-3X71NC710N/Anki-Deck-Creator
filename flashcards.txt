@@ -1,72 +1,163 @@
-What happens if no candidate receives a majority of electoral votes?
+When does Congress open a new term?
 
-The House of Representatives chooses the President.
+Every two years on January 3rd or later if it falls on a weekend.
 
-government
-elections
-In which years did the House choose the President?
+congress
+opening_day
+What happens on Opening Day of Congress?
 
-1801 and 1825.
+New members are sworn in, positions are chosen, and Congress begins its duties.
 
-history
-elections
-What does impeachment mean?
+congress
+opening_day
+What is the role of the Speaker of the House?
 
-To bring charges against the President, Vice President, or other civil officers.
+Preside, keep order, apply rules, refer bills, call votes, and sign bills.
 
-government
-impeachment
-Who has the power to impeach?
+congress
+speaker
+How is the Speaker of the House elected?
 
-The House of Representatives.
+Elected from the majority party.
 
-government
-impeachment
-What is required for the House to impeach?
+congress
+speaker
+Who is the President of the Senate?
 
-A majority vote.
+Always the Vice President.
 
-government
-impeachment
-Who tries the official in an impeachment?
+congress
+senate
+What is the voting power of the President of the Senate?
 
-The Senate.
+Only votes in a tie, not allowed to vote otherwise.
 
-government
-impeachment
-Who presides over the impeachment trial?
+congress
+senate
+What is the role of the President Pro Tempore?
 
-The chief justice.
+Presides over the Senate in the absence of the Vice President.
 
-government
-impeachment
-What vote is needed by the Senate to remove a person from office?
+congress
+senate
+Who is the current President Pro Tempore?
 
-A 2/3rds vote.
+Patty Murray.
 
-government
-impeachment
-Who must confirm all major appointments by the President?
+congress
+senate
+What do Floor Leaders do?
 
-The Senate.
+Carry out the desires of the party caucus.
 
-government
-appointments
-What positions require Senate confirmation?
+congress
+floor_leaders
+What are the two main positions for each party in Congress?
 
-Supreme Court Justice and cabinet members.
+Leader and Whip.
 
-government
-appointments
-What issue arises if the President and Senate majority are from different parties?
+congress
+floor_leaders
+Who is the Majority Leader in the Senate?
 
-The appointment process can become difficult.
+Chuck Schumer.
 
-government
-appointments
-Is it common for the Senate to reject a President's nominee?
+congress
+senate
+Who is the Minority Leader in the Senate?
 
-Rarely.
+Mitch McConnell.
 
-government
-appointments
+congress
+senate
+Who is the Majority Leader in the House?
+
+Steve Scalise.
+
+house
+congress
+Who is the Minority Leader in the House?
+
+Hakeem Jeffries.
+
+house
+congress
+What is the first step in the legislative process?
+
+Ideas come from constituents.
+
+congress
+legislation
+What happens after a bill is introduced?
+
+It gets moved to committee.
+
+congress
+legislation
+What is the role of committees in Congress?
+
+Debate, change, and pass bills for full floor debate.
+
+congress
+committees
+What are Standing Committees?
+
+Permanent committees that can be broken into subcommittees.
+
+congress
+committees
+What do Select Committees do?
+
+Address current issues, conduct research, and investigate wrongdoing.
+
+congress
+committees
+What is the purpose of public hearings?
+
+To bring in experts and gather support for bills.
+
+congress
+public_hearings
+What happens during the amendment stage of a bill?
+
+Members propose amendments while in committee, which must be passed.
+
+congress
+legislation
+What is a 'Poison-pill'?
+
+Something ludicrous to ensure it does not get passed.
+
+politics
+legislation
+What is 'Pork' in legislative terms?
+
+Typically money for a specific local project.
+
+politics
+legislation
+What happens in STEP SIX of the legislative process?
+
+The bill gets debated and voted on, moving between House and Senate.
+
+process
+legislation
+What is the 'Filibuster'?
+
+A weird rule that extends debate in the Senate to delay or block legislation.
+
+legislation
+senate
+What happens in STEP SEVEN of the legislative process?
+
+The President signs the bill into law or vetoes it.
+
+process
+legislation
+What can Congress do if the President vetoes a bill?
+
+Congress can override the veto by passing the bill with a ⅔ vote.
+
+congress
+legislation
+veto
