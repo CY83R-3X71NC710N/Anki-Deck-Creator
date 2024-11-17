@@ -1,231 +1,330 @@
-What is the term length for Senators?
+What is the focus of Unit 2 in the overview?
 
-6 years
+Interactions Among Branches of Government
 
-congress
-terms
-senate
-What is the minimum age requirement for Senators?
+government
+branches
+Which document outlines the structure of the American government?
 
-30 years old
+The Constitution
 
-requirements
-congress
-senate
-How long must a Senator be a U.S. citizen?
+constitution
+government
+What are the three branches of government?
 
-9 years
+Legislative, Executive, Judicial
 
-citizenship
-congress
-senate
-What is the term length for Representatives?
+government
+branches
+What prevents one branch of government from becoming too powerful?
 
-2 years
+Checks and balances
 
-house
-congress
-terms
-What is the minimum age requirement for Representatives?
+checks
+balances
+What role does the bureaucracy play in government?
 
-25 years old
+Implementing policy
 
-requirements
-house
-congress
-How long must a Representative be a U.S. citizen?
+policy
+bureaucracy
+What are the required documents for this unit?
 
-7 years
+United States Constitution, Federalist 51, Federalist 70, Federalist 78
 
-house
-citizenship
-congress
-Why does the House operate under strict rules?
+documents
+federalist
+What is the total number of representatives in the House?
 
-Due to its size (435 members)
-
-rules
-house
-congress
-What is the size of the Senate?
-
-100 members
-
-size
-congress
-senate
-What are expressed powers?
-
-Powers explicitly stated in the Constitution.
-
-congress
-powers
-expressed
-What are implied powers?
-
-Powers not explicitly stated but implied through the Necessary and Proper Clause.
-
-congress
-powers
-implied
-What does the Necessary and Proper Clause allow?
-
-Allows Congress to pass laws needed to execute its enumerated powers.
-
-congress
-powers
-necessary_and_proper
-Who presides over the House?
-
-Speaker of the House
-
-leadership
-congress
-speaker
-Who presides over the Senate in the Vice President's absence?
-
-President Pro Tempore
-
-leadership
-congress
-senate
-What is the role of the Whip in Congress?
-
-Ensures party discipline in votes.
-
-leadership
-congress
-whip
-What is the Senate's specific power regarding treaties?
-
-Approves treaties.
-
-congress
-powers
-senate
-What is the House's specific power regarding revenue bills?
-
-Initiates revenue bills.
+435 representatives
 
 house
-congress
-powers
-What is a filibuster?
+representatives
+How often is the House of Representatives elected?
 
-Extended debate to block a vote in the Senate.
+Every two years
 
-congress
-legislation
-filibuster
-What is pork-barrel legislation?
-
-Adding unrelated amendments to benefit local projects.
-
-congress
-legislation
-pork-barrel
+house
+election
 What is gerrymandering?
 
-Redrawing districts to favor a party.
+Redistricting that gives the majority party an advantage
 
-behavior
-congress
+redistricting
 gerrymandering
-What did BAKER V. CARR ensure?
+Which Supreme Court case began the 'one person, one vote' doctrine?
 
-Fair representation by mandating equal apportionment.
+Baker v. Carr (1962)
 
-behavior
-congress
+supreme_court
 baker_v._carr
-What did SHAW V. RENO rule unconstitutional?
+How many Senators are there in the Senate?
 
-Racial gerrymandering.
+100 Senators
 
-behavior
+senate
+senators
+What is the term length for a Senator?
+
+Six years
+
+term
+senator
+What powers are granted to Congress by Article I Section 8?
+
+Tax, declare war, borrow money, regulate commerce, etc.
+
+powers
+article_i
+What unique power does the Senate have regarding presidential appointments?
+
+Confirming appointments to judgeships, ambassadorships, and Cabinet positions
+
+appointments
+senate
+What is the power of the purse?
+
+Control over funding and government spending
+
+power
+funding
+What is the legislative process described as?
+
+Slow and decentralized
+
+process
+legislative
+Who presides over the House of Representatives?
+
+The Speaker of the House
+
+house
+speaker
+What is the role of the Speaker of the House?
+
+Control debate, assign rules, control the Rules Committee
+
+role
+speaker
+What is the role of the person who sets rules for bills in the House?
+
+They determine which bills are calendared and whether amendments are allowed, making them a key figure in the House.
+
+house
 congress
-shaw_v._reno
-What is a formal power of the President?
+Who presides over the Senate?
 
-Veto power.
+The Vice President presides as President of the Senate but the President Pro Tempore serves in the VP's absence.
 
-president
-executive
-powers
-What is an informal power of the President?
+congress
+senate
+What is the role of the Majority Leader in the Senate?
 
-Executive orders.
+The Majority Leader has significant power over when bills are debated and committee assignments.
 
-president
-executive
-powers
-What does the 22nd Amendment limit?
+congress
+senate
+What is a filibuster?
 
-Limits the president to two terms.
+A filibuster is an unlimited debate in the Senate where Senators attempt to 'talk a bill to death.'
 
-president
-executive
-22nd_amendment
-What is the State of the Union Address?
+congress
+senate
+How can a filibuster be ended?
 
-Annual speech to Congress outlining agenda.
+A filibuster can be ended through a cloture vote, which requires 60 votes.
 
-communication
-executive
-state_of_the_union
-What is the Bully Pulpit?
+congress
+senate
+What is pork barrel legislation?
 
-Using the presidency to promote policies directly to the public.
+Pork barrel legislation refers to funding for local projects inserted into bills, giving Congresspeople accomplishments for re-election.
 
-communication
-executive
-bully_pulpit
-What did BRUTUS 15 express concern over?
+congress
+legislation
+What happens if a bill passes both the House and Senate?
 
-Judicial power.
+A Conference Committee negotiates a compromise bill, which goes to the President for a signature or veto.
 
-concerns
-judicial
-brutus_15
-What did FEDERALIST No. 78 argue for?
+congress
+legislation
+What is a pocket veto?
 
-Judicial independence to check other branches.
+A pocket veto occurs if the President takes no action on a bill for ten days while Congress is adjourned, causing the bill to fail.
 
-judicial
-federalist
-no._78
-What did MARBURY VS. MADISON establish?
+congress
+legislation
+What are the three models of Congressional representation?
 
-Judicial review, allowing courts to declare laws unconstitutional.
+The three models are delegate, trustee, and politico.
 
-judicial
-court_cases
-marbury_vs._madison
+congress
+representation
+What is the delegate model of representation?
+
+In the delegate model, a Congressperson votes according to the wishes of their constituents.
+
+congress
+representation
+What is the trustee model of representation?
+
+In the trustee model, a Congressperson uses their own judgment to make voting decisions.
+
+congress
+representation
+What is divided government?
+
+Divided government occurs when different parties control the executive and legislative branches or each house of Congress.
+
+government
+congress
+What does Federalist No. 70 argue for?
+
+It argues for a strong and single executive with 'executive energy' for quick responses in crises.
+
+presidency
+foundational_documents
+What powers does the President have according to Article II?
+
+The President serves as commander-in-chief, signs treaties (subject to Senate approval), and can issue executive orders.
+
+constitution
+presidency
+What is the War Powers Act?
+
+The War Powers Act limits Presidential power, requiring Congress to be notified of troop deployment within 48 hours.
+
+legislation
+presidency
+What is the bully pulpit?
+
+The bully pulpit refers to the President's ability to influence public opinion and policy.
+
+influence
+presidency
+What power does the President have regarding Cabinet members and judges?
+
+The President can appoint Cabinet members, judges, and ambassadors, all subject to Senate approval.
+
+government
+presidency
+What is the bully pulpit?
+
+The bully pulpit is the President's ability to easily receive media coverage and share ideas with the public.
+
+media
+government
+How has modern technology affected presidential communication?
+
+Modern technology, like social media, provides presidents with a direct outlet to the public to promote policy goals.
+
+technology
+government
+What is the structure of the judicial branch?
+
+The judicial branch consists of 94 district courts, 13 circuit courts of appeals, and one Supreme Court.
+
+government
+judiciary
+What does Federalist No. 78 state about judges?
+
+Federalist No. 78 states that judges maintain independence by serving life terms pending good behavior.
+
+government
+judiciary
+What role did Marbury v. Madison establish for the courts?
+
+Marbury v. Madison established the role of judicial review, allowing courts to determine the constitutionality of actions by other branches.
+
+government
+judiciary
 What is stare decisis?
 
-Upholding precedent in decisions.
+Stare decisis is the legal principle of relying on precedent in court decisions.
 
-principles
-judicial
-stare_decisis
-What is judicial activism?
+law
+judiciary
+What are the two judicial philosophies judges may follow?
 
-Courts actively shaping policy.
+Judges may follow judicial restraint (strict interpretation) or judicial activism (protecting rights not explicitly mentioned in the Constitution).
 
-behavior
-judicial
-judicial_activism
-What can Congress do as a legislative check?
+law
+judiciary
+How do Presidents and Congress influence the Court?
 
-Pass amendments or alter jurisdiction.
+They use strategic appointments, legislation changing jurisdiction, modifying laws, amending the Constitution, and refusing to implement decisions.
 
 government
-congress
-checks
-What power does the President have as an executive check?
+judiciary
+What is the role of the bureaucracy?
 
-Appoint judges and issue pardons.
+The bureaucracy implements laws passed by Congress and administers government functions.
 
 government
-president
-checks
+bureaucracy
+What is the Pendleton Act?
+
+The Pendleton Act established a merit system for hiring bureaucrats, preventing termination without cause.
+
+government
+bureaucracy
+What are major types of bureaucratic agencies?
+
+Major types include Cabinet departments, independent regulatory agencies, and government corporations.
+
+government
+bureaucracy
+What is discretionary authority?
+
+Discretionary authority allows the bureaucracy to make decisions on implementing broadly-worded laws.
+
+government
+bureaucracy
+What is an iron triangle?
+
+An iron triangle describes the relationship between Congressional committees, bureaucratic agencies, and interest groups for policymaking.
+
+government
+policy
+What are issue networks?
+
+Issue networks are broader networks involving multiple interest groups, committees, and agencies, including media and researchers.
+
+government
+policy
+How can Congress check the power of the bureaucracy?
+
+Congress controls the budget, confirms agency directors, holds oversight hearings, and can force bureaucrats to testify.
+
+government
+bureaucracy
+What powers does the President have over the bureaucracy?
+
+The President can appoint directors and issue executive orders to direct agency actions.
+
+government
+bureaucracy
+How can courts check the bureaucracy?
+
+Courts can declare rule-making decisions unconstitutional.
+
+government
+judiciary
+Who can appoint directors?
+
+The nt (national government) can appoint directors.
+
+government
+appointments
+What can the nt issue to direct an agency?
+
+The nt can issue executive orders to direct an agency.
+
+government
+executive_orders
+What can the courts declare unconstitutional?
+
+The courts can declare rule-making decisions unconstitutional.
+
+law
+courts
