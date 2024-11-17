@@ -15,40 +15,29 @@ def read_flashcards(file_path):
     flashcards = []
     i = 0
     while i < len(lines):
-        categories = []
-        # Collect categories
-        while i < len(lines) and not lines[i].endswith('?'):
-            categories.append(lines[i])
-            i += 1
-        # Ensure there are enough lines for a question and answer
-        if i < len(lines) and lines[i].endswith('?'):
+        if i + 1 < len(lines):
             question = lines[i]
-            i += 1
-            if i < len(lines):
-                answer = lines[i]
-                flashcards.append((question, answer, categories))
-                i += 1
-            else:
-                print(f"Warning: Missing answer for question starting at line {i+1}")
+            answer = lines[i+1]
+            flashcards.append((question, answer))
+            i += 2  # Move to the next set of flashcards
         else:
             print(f"Warning: Incomplete flashcard entry starting at line {i+1}")
             break
     return flashcards
 
-# Define the model for the flashcards
+# Define the model for the flashcards using Anki's Basic model
 model = genanki.Model(
-  1607392319,
-  'Simple Model',
+  1373794392,  # This is the model ID for Anki's Basic model
+  'Basic',
   fields=[
-    {'name': 'Question'},
-    {'name': 'Answer'},
-    {'name': 'Categories'},
+    {'name': 'Front'},
+    {'name': 'Back'},
   ],
   templates=[
     {
       'name': 'Card 1',
-      'qfmt': '{{Question}}<br><br><i>{{Categories}}</i>',
-      'afmt': '{{FrontSide}}<hr id="answer">{{Answer}}',
+      'qfmt': '{{Front}}',
+      'afmt': '{{FrontSide}}<hr id="answer">{{Back}}',
     },
   ])
 
@@ -65,10 +54,10 @@ deck = genanki.Deck(
 flashcards = read_flashcards('flashcards.txt')
 
 # Add flashcards to the deck
-for question, answer, categories in flashcards:
+for question, answer in flashcards:
   note = genanki.Note(
     model=model,
-    fields=[question, answer, ', '.join(categories)])
+    fields=[question, answer])
   deck.add_note(note)
 
 # Create a package and write to a file with a random name
