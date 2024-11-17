@@ -1,163 +1,126 @@
-When does Congress open a new term?
+What are the four voting behaviors in Congress?
 
-Every two years on January 3rd or later if it falls on a weekend.
-
-congress
-opening_day
-What happens on Opening Day of Congress?
-
-New members are sworn in, positions are chosen, and Congress begins its duties.
-
-congress
-opening_day
-What is the role of the Speaker of the House?
-
-Preside, keep order, apply rules, refer bills, call votes, and sign bills.
-
-congress
-speaker
-How is the Speaker of the House elected?
-
-Elected from the majority party.
-
-congress
-speaker
-Who is the President of the Senate?
-
-Always the Vice President.
-
-congress
-senate
-What is the voting power of the President of the Senate?
-
-Only votes in a tie, not allowed to vote otherwise.
-
-congress
-senate
-What is the role of the President Pro Tempore?
-
-Presides over the Senate in the absence of the Vice President.
-
-congress
-senate
-Who is the current President Pro Tempore?
-
-Patty Murray.
-
-congress
-senate
-What do Floor Leaders do?
-
-Carry out the desires of the party caucus.
-
-congress
-floor_leaders
-What are the two main positions for each party in Congress?
-
-Leader and Whip.
-
-congress
-floor_leaders
-Who is the Majority Leader in the Senate?
-
-Chuck Schumer.
-
-congress
-senate
-Who is the Minority Leader in the Senate?
-
-Mitch McConnell.
-
-congress
-senate
-Who is the Majority Leader in the House?
-
-Steve Scalise.
-
-house
-congress
-Who is the Minority Leader in the House?
-
-Hakeem Jeffries.
-
-house
-congress
-What is the first step in the legislative process?
-
-Ideas come from constituents.
-
-congress
-legislation
-What happens after a bill is introduced?
-
-It gets moved to committee.
-
-congress
-legislation
-What is the role of committees in Congress?
-
-Debate, change, and pass bills for full floor debate.
-
-congress
-committees
-What are Standing Committees?
-
-Permanent committees that can be broken into subcommittees.
-
-congress
-committees
-What do Select Committees do?
-
-Address current issues, conduct research, and investigate wrongdoing.
-
-congress
-committees
-What is the purpose of public hearings?
-
-To bring in experts and gather support for bills.
-
-congress
-public_hearings
-What happens during the amendment stage of a bill?
-
-Members propose amendments while in committee, which must be passed.
-
-congress
-legislation
-What is a 'Poison-pill'?
-
-Something ludicrous to ensure it does not get passed.
+Partisan, Trustee, Delegate, Politico
 
 politics
-legislation
-What is 'Pork' in legislative terms?
+voting
+What does Partisan voting mean?
 
-Typically money for a specific local project.
+Vote based on party alignment
 
 politics
-legislation
-What happens in STEP SIX of the legislative process?
+voting
+What does Trustee voting entail?
 
-The bill gets debated and voted on, moving between House and Senate.
+Vote independently, based on their own judgment
 
-process
-legislation
-What is the 'Filibuster'?
+politics
+voting
+What is Delegate voting?
 
-A weird rule that extends debate in the Senate to delay or block legislation.
+Represent the views of their constituents
 
-legislation
-senate
-What happens in STEP SEVEN of the legislative process?
+politics
+voting
+What are the two types of Delegate voting?
 
-The President signs the bill into law or vetoes it.
+Substantive and Descriptive
 
-process
-legislation
-What can Congress do if the President vetoes a bill?
+politics
+voting
+What is Substantive Delegate voting based on?
 
-Congress can override the veto by passing the bill with a ⅔ vote.
+Particular groups of people
 
-congress
-legislation
-veto
+politics
+voting
+What is Descriptive Delegate voting based on?
+
+Unique identifiers (race, gender, geography, etc.)
+
+politics
+voting
+What is Politico voting?
+
+Combination of Partisan, Trustee, and Delegate
+
+politics
+voting
+What does Partisanship cause?
+
+Divided Government, Gridlock, Pandemonium, Anarchy
+
+politics
+partisanship
+Who gets to draw district borders?
+
+The States
+
+politics
+redistricting
+What is Gerrymandering?
+
+Drawing district lines to give a political party an advantage
+
+politics
+redistricting
+What is the method of Packing in gerrymandering?
+
+Concentrating the opposing party into one district
+
+politics
+redistricting
+What is the method of Cracking in gerrymandering?
+
+Splitting up minority party support over several districts
+
+politics
+redistricting
+What is Kidnapping in gerrymandering?
+
+Moving incumbent candidates into a new district where they are unlikely to win
+
+politics
+redistricting
+Is Partisan Gerrymandering allowed?
+
+Yes
+
+politics
+redistricting
+Is Racial Gerrymandering allowed?
+
+No
+
+politics
+redistricting
+What was the issue in Baker v. Carr (1961)?
+
+Whether the Supreme Court had authority over legislative apportionment cases
+
+politics
+court_cases
+What did Baker v. Carr (1961) conclude?
+
+Supreme Court has authority due to Equal Protection issues
+
+politics
+court_cases
+What doctrine did Baker v. Carr (1961) help develop?
+
+One person, one vote doctrine
+
+politics
+court_cases
+What was the issue in Shaw v. Reno (1993)?
+
+Whether racial gerrymandering occurred in a proposed district
+
+politics
+court_cases
+What did the Supreme Court hold in Shaw v. Reno (1993)?
+
+The district's odd shape indicated an effort to separate voters racially
+
+politics
+court_cases
