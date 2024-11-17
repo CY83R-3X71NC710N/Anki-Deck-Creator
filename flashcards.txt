@@ -1,84 +1,162 @@
-What was the role of MAIL & NEWSPAPER in presidential communication?
+What is vested in the judicial power of the United States?
 
-Federal Gov’t in Charge → Open 2-way communication; Franking Privilege → Free postage; Newspapers critiqued/challenged Presidents.
+One supreme Court and inferior Courts as ordained by Congress.
 
-history
-communication
-What was the impact of ELECTRONIC BROADCAST TECHNOLOGY on presidential communication?
+constitution
+power
+judicial
+What is the term length for judges in the United States?
 
-Added comfort; Phone → 2-Way; TV & Radio → 1-Way; Appearance matters now.
+Judges hold their offices during good Behaviour.
 
-technology
-communication
-What are some characteristics of DIGITAL TECHNOLOGY in presidential communication?
+constitution
+judges
+term
+Who wrote Federalist No. 78?
 
-24/7 Partisan News Feeds; Information can be targeted and altered; Accessible to everyone.
+Alexander Hamilton.
 
-technology
-communication
-How did Theodore Roosevelt utilize national newspapers?
+judiciary
+hamilton
+federalist
+How does Federalist No. 78 describe the judicial branch?
 
-He developed relationships with journalists through national newspapers.
+It is independent and the weakest of the three branches.
 
-communication
-presidents
-Who was the first president to have a Press Secretary?
+branches
+judicial
+federalist
+What does the judiciary depend on for the efficacy of its judgments?
 
-Herbert Hoover was the first president with a Press Secretary speaking to the White House Correspondent’s Association.
+The aid of the executive arm.
 
-communication
-presidents
-What were Franklin Delano Roosevelt's Fireside Chats?
+judiciary
+judgment
+executive
+What is the main function of the judiciary?
 
-Radio addresses to the public in the 1930s.
+To interpret the Constitution and laws.
 
-history
-communication
-Who delivered the first State of the Union address in person since John Adams?
+function
+constitution
+judiciary
+What power does judicial review grant the Supreme Court?
 
-Woodrow Wilson delivered the first in-person State of the Union address since John Adams in 1800.
+The power to check the other branches of government.
 
-history
-communication
-What was established in the 1930s to aid presidential communication?
+review
+court
+judicial
+supreme
+How many justices are on the Supreme Court?
 
-The White Communications Office was established, including speechwriters and public relations specialists.
+Nine justices.
 
-history
-communication
-What was significant about John F. Kennedy's press conference in the 1960s?
+court
+supreme
+justices
+What is the basic function of the Supreme Court?
 
-He gave the first live televised press conference.
+To make decisions that can have far-reaching effects.
 
-communication
-presidents
-What did Eisenhower to Clinton do regarding major network programming?
+function
+court
+supreme
+What landmark case established the principle of judicial review?
 
-Presidents cut into major network programming with 'news' deemed 'breaking'.
+Marbury vs. Madison (1803).
 
-history
-communication
-How did Obama utilize social media for communication?
+landmark
+review
+case
+judicial
+What was the key issue in Marbury vs. Madison?
 
-He created a social media presence with Twitter, YouTube, and video uploads to WhiteHouse.gov.
+Whether the Court had the authority to order the delivery of commissions.
 
-technology
-communication
-What was President Trump's primary means of communication?
+issue
+madison
+marbury
+What did the Judiciary Act of 1801 aim to do?
 
-President Trump primarily used Twitter for communication with the public.
+Create new courts and add new judges.
 
-communication
-presidents
-How did President Trump label mainstream media?
+judiciary
+act
+1801
+Who was defeated in the 1800 election?
 
-He declared mainstream media to be 'fake news'.
+John Adams was defeated by Thomas Jefferson.
 
-communication
-presidents
-What confusion arose regarding President Trump's tweets?
+election
+jefferson
+adams
+1800
+What did the Court hold regarding Marbury's case?
 
-There was confusion as to whether a tweet can be considered executive policy.
+The Court held that the Judiciary Act of 1789 enabling Marbury to bring the case was unconstitutional, establishing judicial review.
 
-communication
-presidents
+law
+judicial_review
+What are the three levels of the U.S. Federal Court System?
+
+1) U.S. District Courts, 2) U.S. Courts of Appeal, 3) U.S. Supreme Court.
+
+law
+court_system
+What is the highest court in the federal system?
+
+The U.S. Supreme Court is the highest court in the federal system.
+
+law
+supreme_court
+How many Justices are on the Supreme Court?
+
+There are nine Justices on the Supreme Court.
+
+law
+supreme_court
+What is the jurisdiction of the U.S. Supreme Court?
+
+The Supreme Court has appeals jurisdiction through the certiorari process and limited original jurisdiction over some cases.
+
+law
+jurisdiction
+What is the role of the Courts of Appeal?
+
+The Courts of Appeal are the intermediate level in the federal system, with no original jurisdiction and strictly appellate.
+
+law
+courts_of_appeal
+How many judicial districts are there in the U.S. District Courts?
+
+There are 94 judicial districts in the U.S. District Courts.
+
+law
+district_courts
+What is the original jurisdiction of District Courts?
+
+District Courts have original jurisdiction over most cases and no appellate jurisdiction.
+
+law
+jurisdiction
+What factors determine if a case gets heard by the Supreme Court?
+
+1. No prior court precedent, 2. Conflict between two courts, 3. Effect felt beyond the parties involved.
+
+criteria
+law
+supreme_court
+What is 'Stare Decisis'?
+
+Stare Decisis is the legal principle of determining points in litigation according to precedent.
+
+law
+legal_principle
+What are the interpretations of the Constitution used by Justices?
+
+1. Historical, 2. Structural, 3. Doctrinal, 4. Ethical, 5. Prudential.
+
+law
+constitution
+interpretation
