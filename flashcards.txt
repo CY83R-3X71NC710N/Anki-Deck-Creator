@@ -1,42 +1,42 @@
-What is Judicial Restraint?
+What is the focus of section 2.12 - 2.15?
 
-Strict interpretation; Founding Fathers’ original intent; States & Elected Branches should solve problems.
+The Bureaucracy
 
-judiciary
-restraint
-What is Judicial Activism?
+government
+bureaucracy
+What concept describes the relationship between Congress, the bureaucracy, and interest groups?
 
-Loose interpretation; The Constitution is a 'living document'; Court should uphold 'guardian ethic'.
+The Iron Triangle
 
-judiciary
-activism
-Is Judicial Activism connected to political ideology?
+policy
+iron_triangle
+What is the process of putting policy into action called?
 
-Not connected, though there is correlation between party President and Justices.
+Policy Implementation
 
-politics
-judiciary
-What are Direct Legislative Checks on the Judicial Branch?
+implementation
+policy
+What section discusses examples of policy implementation?
 
-Legislation impacting court jurisdiction; modifying SCOTUS opinion; cut funding; propose amendments; conduct oversight; use fiscal federalism.
+Policy Implementation - EXAMPLES
 
-legislation
+examples
+policy
+What type of checks does Congress have over the bureaucracy?
+
+Congressional Checks
+
+congress
 checks
-What is Senatorial Courtesy?
+What type of checks does the President have over the bureaucracy?
 
-An influence in the legislative checks on the judicial branch.
+Presidential Checks
 
-courtesy
-senate
-What are Direct Executive Checks on the Judicial Branch?
+president
+checks
+What type of checks does the judiciary have over the bureaucracy?
 
-Refuse to enforce decisions; issue Executive Orders in response to decisions.
+Judicial Checks
 
 checks
-executive
-How can the Executive branch influence the Judicial Branch?
-
-Judicial appointment to change ideological composition of the court.
-
-influence
-executive
+judicial
