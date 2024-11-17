@@ -15,11 +15,12 @@ def read_flashcards(file_path):
     flashcards = []
     i = 0
     while i < len(lines):
-        if i + 1 < len(lines):
+        if i + 3 < len(lines):
             question = lines[i]
             answer = lines[i+1]
+            # Skip the next two lines as they are categories
+            i += 4  # Move to the next set of flashcards
             flashcards.append((question, answer))
-            i += 2  # Move to the next set of flashcards
         else:
             print(f"Warning: Incomplete flashcard entry starting at line {i+1}")
             break
