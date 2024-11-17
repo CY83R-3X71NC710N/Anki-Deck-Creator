@@ -26,8 +26,21 @@ def read_flashcards(file_path):
             break
     return flashcards
 
-# Use the existing Basic model ID
-BASIC_MODEL_ID = 1731801871221
+# Define the model for the flashcards using Anki's Basic model
+model = genanki.Model(
+  1731801871221,  # This is the model ID for Anki's Basic model
+  'Basic',
+  fields=[
+    {'name': 'Front'},
+    {'name': 'Back'},
+  ],
+  templates=[
+    {
+      'name': 'Card 1',
+      'qfmt': '{{Front}}',
+      'afmt': '{{FrontSide}}<hr id="answer">{{Back}}',
+    },
+  ])
 
 # Generate random deck name and file name
 deck_name = random_string()
@@ -44,7 +57,7 @@ flashcards = read_flashcards('flashcards.txt')
 # Add flashcards to the deck
 for question, answer in flashcards:
   note = genanki.Note(
-    model=genanki.Model(BASIC_MODEL_ID, 'Basic'),
+    model=model,
     fields=[question, answer])
   deck.add_note(note)
 
